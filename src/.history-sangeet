@@ -1,0 +1,3 @@
+_T=20220609_17:07:04_234512	 ll
+_T=20220609_17:09:49_234512	 touch train.yaml prepare_data.py model.py train.py evaluate.py
+_T=20220609_17:09:50_234512	 ll
