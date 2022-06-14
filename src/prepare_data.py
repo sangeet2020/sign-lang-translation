@@ -1,61 +1,65 @@
-from re import L
-from transformers import AutoTokenizer
-import torch
+"""
+Loads the pre-downloaded data ie. gloss and correspond text
+into json file
 
+Authors:
+    * Megan Dare, 2022
+    * Sangeet Sagar, 2022
+"""
 
-DATA_SRC_FOLDER = '../data/'
-DEV_GLOSS = 'phoenix2014T.dev.gloss'
-DEV_DE = 'phoenix2014T.dev.de'
-TRAIN_GLOSS = 'phoenix2014T.train.gloss'
-TRAIN_DE = 'phoenix2014T.train.de'
-TEST_GLOSS = 'phoenix2014T.test.gloss'
-TEST_DE = 'phoenix2014T.test.de'
-VOCAB_GLOSS = 'phoenix2014T.vocab.gloss'
-VOCAB_DE = 'phoenix2014T.vocab.de'
+import os
+import json
+import shutil
+import logging
 
-# load data from files
-dev_gloss_lines = open(DATA_SRC_FOLDER + DEV_GLOSS, "r").read().split('\n')
-dev_de_lines = open(DATA_SRC_FOLDER + DEV_DE, "r").read().split('\n')
+from sqlalchemy import extract
 
-'''
-def make_pairs(source, target):
-    pairs = []
-    for i in range(0, len(source)):
-        pairs.append((source[i], target[i]))
-    return pairs
+logger = logging.getLogger(__name__)
+data = {
+    'TRAIN_GLOSS' : 'data/phoenix2014T.train.gloss',
+    'TRAIN_DE'    : 'data/phoenix2014T.train.de',
+    'DEV_GLOSS'   : 'data/phoenix2014T.dev.gloss',
+    'DEV_DE'      : 'data/phoenix2014T.dev.de',
+    'TEST_GLOSS'  : 'data/phoenix2014T.test.gloss',
+    'TEST_DE'     : 'data/phoenix2014T.test.de',
+    'VOCAB_GLOSS' : 'data/phoenix2014T.vocab.gloss',
+    'VOCAB_DE'    : 'data/phoenix2014T.vocab.de'
+}
 
-print(make_pairs(dev_gloss_lines, dev_de_lines))
-'''
+def extract_content(path):
+    gloss = open(path[0], "r")
+    text = open(path[1], "r", encoding='utf-8-sig')
+    content_gloss = gloss.read().splitlines()
+    content_text = text.read().splitlines()
+    content = []
+    for item in list(zip(content_gloss, content_text)):
+        content.append(
+            {
+            "gloss": item[0],
+            "text": item[1]
+        }
+        )
+    return content
+    
 
-# tokenize using pretrained german bert tokenizer
-tokenizer = AutoTokenizer.from_pretrained("dbmdz/bert-base-german-cased")
+def prepare_data(data, save_json_train, save_json_valid, save_json_test):
+    train_path = [data['TRAIN_GLOSS'], data['TRAIN_DE']]
+    valid_path = [data['DEV_GLOSS'], data['DEV_DE']]
+    test_path = [data['TEST_GLOSS'], data['TEST_DE']]
+    
+    train = extract_content(train_path)
+    valid = extract_content(valid_path)
+    test = extract_content(test_path)
+    
+    
+    with open(save_json_train, 'w') as f:
+        json.dump(train, f, indent=4, ensure_ascii=False)
+    
+    with open(save_json_valid, 'w') as f:
+        json.dump(valid, f, indent=4, ensure_ascii=False)
+    
+    with open(save_json_test, 'w') as f:
+        json.dump(test, f, indent=4, ensure_ascii=False)
+    
 
-dev_gloss_encodings = tokenizer(dev_gloss_lines, truncation=True, padding=True, return_tensors='pt')
-dev_de_encodings = tokenizer(dev_de_lines, truncation=True, padding=True, return_tensors='pt')
-
-
-class Phoenix2014TDataset(torch.utils.data.Dataset):
-    def __init__(self, gloss, text, tokenizer):
-        assert len(gloss) == len(text), 'input and output sequences not of same length, this is unexpected'
-
-        self.gloss = gloss
-        self.text = text
-        self.tokenizer = AutoTokenizer.from_pretrained(tokenizer)
-        self._init_and_tokenize()
-
-    def __getitem__(self, idx):
-        # what should be returned by this function ?
-        return self.data_gloss[idx]
-
-    def __len__(self):
-        return len(self.gloss)
-
-    def _init_and_tokenize(self):
-        self.data_gloss = self.tokenizer(self.gloss, 
-                                         truncation=True, 
-                                         padding=True, 
-                                         return_tensors='pt',)
-        self.data_de = self.tokenizer(self.text,
-                                      truncation=True, 
-                                      padding=True, 
-                                      return_tensors='pt',)
+prepare_data(data, 'train.json', 'valid.json', 'test.json')
