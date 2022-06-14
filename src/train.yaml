@@ -1,0 +1,21 @@
+
+
+# Set up folders for reading from and writing to
+data_folder: ../data
+output_folder: ../results
+
+# Path where data-specification files are stored
+train:  train.json
+valid:  valid.json
+test:   test.json
+vocab:  vocab.json
+
+# Tokenizer model
+tokenizer_model: bert-base-german-cased
+
+# Model parameters
+
+# Training parameters
+
+
+

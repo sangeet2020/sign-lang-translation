@@ -50,6 +50,14 @@ def prepare_data(data, save_json_train, save_json_valid, save_json_test):
     with open(save_json_test, 'w') as f:
         json.dump(test, f, indent=4, ensure_ascii=False)
     
+    
+
+if __name__ == "__main__":
+    prepare_data(data, 'train.json', 'valid.json', 'test.json')
+    train = json.load(open('train.json'))
+    valid = json.load(open('valid.json'))
+    test = json.load(open('test.json'))
+    
     print("****** Stats for nerds ******")
     print("Total train sents: ", len(train))
     print("Total valid sents: ", len(valid))
@@ -57,9 +65,5 @@ def prepare_data(data, save_json_train, save_json_valid, save_json_test):
     print("\nExample of dataset: ")
     print("Gloss: ", train[0]["gloss"])
     print("Test: ", train[0]["text"])
-    
-
-if __name__ == "__main__":
-    prepare_data(data, 'train.json', 'valid.json', 'test.json')
     
     
