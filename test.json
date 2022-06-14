@@ -1,0 +1,2570 @@
+[
+    {
+        "gloss": "ABER FREUEN",
+        "text": "aber erfreuliche nachricht ."
+    },
+    {
+        "gloss": "MORGEN SONNE",
+        "text": "es scheint häufig die sonne ."
+    },
+    {
+        "gloss": "SAMSTAG WECHSELHAFT",
+        "text": "am samstag ist es wieder unbeständig ."
+    },
+    {
+        "gloss": "BESONDERS FREUNDLICH NORDOST BISSCHEN BEREICH",
+        "text": "am freundlichsten ist es noch im nordosten sowie in teilen bayerns ."
+    },
+    {
+        "gloss": "SONNTAG REGEN TEIL GEWITTER",
+        "text": "am sonntag ab und an regenschauer teilweise auch gewitter ."
+    },
+    {
+        "gloss": "SUEDOST DURCH REGEN",
+        "text": "im südosten regnet es teilweise länger ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN SAMSTAG ZWEITE APRIL",
+        "text": "und nun die wettervorhersage für morgen samstag den zweiten april ."
+    },
+    {
+        "gloss": "FLUSS NORDOST HEUTE ABEND NOCH WOLKE KOENNEN REGEN SUEDOST",
+        "text": "nordöstlich der elbe halten sich heute nacht noch viele wolken die anfangs auch noch ein paar tropfen bringen ."
+    },
+    {
+        "gloss": "MONTAG UEBERALL WECHSELHAFT ABER KUEHL",
+        "text": "am montag überall wechselhaft und deutlich kühler ."
+    },
+    {
+        "gloss": "AB DIENSTAG IN-KOMMEND LANGSAM WIEDER ZURUECK FREUNDLICH WARM",
+        "text": "aber ab dienstag wird es langsam wieder freundlicher und wärmer ."
+    },
+    {
+        "gloss": "WIND MAESSIG FRISCH STARK STURM BERG SCHWER STURM SUEDOST SCHWACH WIND",
+        "text": "der wind weht mäßig bis frisch mit starken bis stürmischen böen im bergland teilweise schwere sturmböen im südosten mitunter nur schwacher wind ."
+    },
+    {
+        "gloss": "SONNTAG SPEZIELL REGION GEWITTER NORD MEHR SONNE",
+        "text": "am sonntag vor allem in der südosthälfte gewitterschauer sonst setzt sich wieder meist die sonne durch ."
+    },
+    {
+        "gloss": "LIEB ZUSCHAUER BEGRUESSEN GUT ABEND",
+        "text": "liebe zuschauer guten abend ."
+    },
+    {
+        "gloss": "NORDWEST FREUNDLICH",
+        "text": "richtung norden und westen ist es recht freundlich ."
+    },
+    {
+        "gloss": "WIND ZEIGEN-BILDSCHIRM WIND WEHEN WIND KOENNEN OST REGION HOCH STURM KOENNEN",
+        "text": "der wind weht meist mäßig im osten und an der see frischer wind mit starken böen in den hochlagen der osthälfte sturmböen ."
+    },
+    {
+        "gloss": "REGION VIEL SONNE BISSCHEN WOLKE",
+        "text": "in den übrigen gebieten viel sonne und nur ein paar lockere wolken ."
+    },
+    {
+        "gloss": "TAG NORDOST ZWOELF SUED BAYERN IX MAXIMAL ZWANZIG GRAD",
+        "text": "am tag zwölf grad an der ostsee und bis zwanzig grad in niederbayern ."
+    },
+    {
+        "gloss": "MONTAG AUCH MEHR WOLKE ALS SONNE UEBERWIEGEND REGEN UEBERWIEGEND GEWITTER",
+        "text": "auch am montag mehr wolken als sonne teilweise regnet es länger und kräftig auch gewitter sind dabei ."
+    },
+    {
+        "gloss": "MORGEN DANN HERBST MISCHUNG HOCH NEBEL WOLKE SONNE",
+        "text": "auch morgen erwartet uns eine ruhige herbstmischung aus hochnebel wolken und sonne ."
+    },
+    {
+        "gloss": "ABER IM-VERLAUF NEBEL HOCH NEBEL IX",
+        "text": "später breiten sich aber nebel oder hochnebelfelder aus ."
+    },
+    {
+        "gloss": "MORGEN LANG BLEIBEN",
+        "text": "die halten sich morgen recht zäh ."
+    },
+    {
+        "gloss": "SONNTAG NORD MITTE REGION REGEN NORD STURM",
+        "text": "am sonntag im norden und in der mitte schauer dabei ist es im norden stürmisch ."
+    },
+    {
+        "gloss": "SUED REGION BESSER",
+        "text": "im süden freundliches wetter ."
+    },
+    {
+        "gloss": "NACHT ZWOELF KOELN REGION EINS REGION IX",
+        "text": "heute nacht zwölf grad in der kölner bucht ein grad in brandenburg ."
+    },
+    {
+        "gloss": "AM-TAG ELF VOGEL LAND",
+        "text": "am tag elf grad im vogtland und einundzwanzig grad am oberrhein ."
+    },
+    {
+        "gloss": "MITTE BERG VIER NORDWEST ZWOELF GRAD WOLKE",
+        "text": "in den mittelgebirgen heute nacht örtlich vier im nordwesten unter wolken bis zwölf grad ."
+    },
+    {
+        "gloss": "MORGEN IX NORDOST WOLKE UEBERWIEGEND SCHAUER",
+        "text": "morgen überwiegen in der nordosthälfte die wolken und es fallen einzelne schauer ."
+    },
+    {
+        "gloss": "DANN REGEN OST REGION MILD FUENFZEHN SECHSZEHN",
+        "text": "milder bleibt es unter den regenwolken im osten mit fünfzehn sechzehn grad ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN DONNERSTAG DRITTE DEZEMBER",
+        "text": "und nun die wettervorhersage für morgen donnerstag den dritten dezember ."
+    },
+    {
+        "gloss": "REGION SUEDOST HAUPTSAECHLICH BEWOELKT TROCKEN SONNE WOLKE",
+        "text": "im osten und südosten neben teilweise zähen nebelfeldern eine trockene mischung aus sonne und wolken ."
+    },
+    {
+        "gloss": "OST SEE TIEF DRUCK ZONE NORD NOCH SCHNEE SCHNEIEN",
+        "text": "ein tief über der ostsee bringt dem norden deutschlands noch schnee ."
+    },
+    {
+        "gloss": "NORD OST DEUTSCHLAND MORGEN DIESE LOS KOMMEN DESHALB SONNE",
+        "text": "der nordosten deutschlands liegt morgen dank hochdruckeinfluss meist auf der sonnenseite ."
+    },
+    {
+        "gloss": "AUCH DRESDEN REGION REGEN KOENNEN",
+        "text": "auch in sachsen wird es zum teil kräftig weiter regnen ."
+    },
+    {
+        "gloss": "JETZT MORGEN WETTER WIE-AUSSEHEN ZEIGEN-BILDSCHIRM DONNERSTAG DRITTE MAERZ",
+        "text": "und nun die wettervorhersage für morgen donnerstag den dritten märz ."
+    },
+    {
+        "gloss": "MILD WEHEN ICH",
+        "text": "sehr milde luft strömt zu uns ."
+    },
+    {
+        "gloss": "DEUTSCH HIER LAND SUEDOST HOCH DRUCK FREUNDLICH",
+        "text": "in der südosthälfte deutschlands bleibt es morgen unter leichtem hochdruckeinfluss noch recht freundlich ."
+    },
+    {
+        "gloss": "NEUNZEHN GRAD NORD SECHS ZWANZIG THUERINGEN SACHSEN TAG KLAR",
+        "text": "am tag neunzehn grad an der nordsee und sechsundzwanzig grad in teilen thüringens und sachsens ."
+    },
+    {
+        "gloss": "AUCH DABEI SCHNEE REGEN",
+        "text": "darunter zum teil schneeregen ."
+    },
+    {
+        "gloss": "NORD TROCKEN IX",
+        "text": "im norden wird es dagegen noch trocken sein ."
+    },
+    {
+        "gloss": "MORGEN IX SCHNEE REGEN SCHNEE REGEN",
+        "text": "da haben wir am morgen schnee und schneeregen ."
+    },
+    {
+        "gloss": "SAMSTAG BESSER",
+        "text": "samstag beruhigt es sich etwas ."
+    },
+    {
+        "gloss": "UND DANN SONNTAG IX REGION KOMMEN KALT",
+        "text": "und etwas kälter wird es dann im laufe des sonntags von osten ."
+    },
+    {
+        "gloss": "SCHOEN ABEND AUSRICHTEN",
+        "text": "ich wünsche ihnen einen schönen abend und machen sie es gut ."
+    },
+    {
+        "gloss": "DEUTSCH LAND TIEF DRUCK KOMMEN IM-VERLAUF TAG BEWOELKT BISSCHEN REGEN SCHNEE SCHNEIEN",
+        "text": "deutschland bleibt unter tiefdruckeinfluss und in den nächsten tagen erwartet uns meist trübes wetter mit ein wenig regen oder schnee ."
+    },
+    {
+        "gloss": "HEUTE NACHT ODER FLUSS NOCH SCHNEE SCHNEIEN",
+        "text": "heute nacht gibt es an der oder noch einzelne schneeschauer ."
+    },
+    {
+        "gloss": "NORDOST MIT SCHNEE SCHNEIEN",
+        "text": "örtlich ist gefrierender regen dabei richtung nordosten auch schnee ."
+    },
+    {
+        "gloss": "WIND SCHWACH MAESSIG UNTEN KOMMEN IX KOMMEN",
+        "text": "dazu weht ein schwacher bis mäßiger wind aus südost bis süd ."
+    },
+    {
+        "gloss": "MORGEN SIEBEN FLUSS NUR TEIL MINUS EINS",
+        "text": "dort morgen sieben grad nordöstlich der elbe teilweise nur minus ein grad ."
+    },
+    {
+        "gloss": "SONNTAG UEBERWIEGEND OST SUED SCHAUER GEWITTER REGION FREUNDLICH",
+        "text": "am sonntag vor allem im osten und süden noch schauer oder gewitter sonst überwiegend freundlich ."
+    },
+    {
+        "gloss": "NAECHSTE WOCHE KUEHL ABWECHSELN WETTER",
+        "text": "in der neuen woche kühlt es dann bei wechselhaftem wetter deutlich ab ."
+    },
+    {
+        "gloss": "REGION MEHR FREUNDLICH HOCH DRUCK KOMMEN BIS REGION",
+        "text": "in den übrigen landesteilen wird es meist freundlich dank einer hochdruckzone die von der biskaya bis zu den shetlandinseln reicht ."
+    },
+    {
+        "gloss": "DIENSTAG WEST FREUNDLICH IX SCHAUER GEWITTER",
+        "text": "am dienstag ist es in der westhälfte meist freundlich ansonsten stellenweise schauer oder gewitter ."
+    },
+    {
+        "gloss": "NORD SEE HOCH DEUTSCH LAND KOMMEN",
+        "text": "das hoch über der nordsee bestimmt morgen im ganzen land das wetter ."
+    },
+    {
+        "gloss": "AUCH SAMSTAG SONNTAG VIEL SONNE DANN TEMPERATUR STEIGEN",
+        "text": "auch am wochenende sorgt es für viel sonnenschein bei weiter steigenden temperaturen ."
+    },
+    {
+        "gloss": "TAG OST SECHSZEHN MAXIMAL SIEBEN ZWANZIG GRAD FLUSS",
+        "text": "am tag sechzehn grad an der ostsee und bis zu siebenundzwanzig grad am oberrhein ."
+    },
+    {
+        "gloss": "PLOETZLICH IX GEWITTER KOENNEN WIE UNWETTER",
+        "text": "vor allem im süden können die gewitter unwetterartig ausfallen ."
+    },
+    {
+        "gloss": "MITTWOCH MISCHUNG WOLKE NEBEL NORDWEST BISSCHEN SCHAUER REGION TROCKEN",
+        "text": "am mittwoch eine mischung aus sonne wolken und nebelfeldern im nordwesten hier und da schauer sonst ist es trocken ."
+    },
+    {
+        "gloss": "HEUTE NACHT IX NORDWEST REGEN KOMMEN REGION",
+        "text": "dabei breiten sich heute nacht von nordwesten regenfälle bis in die mitte aus ."
+    },
+    {
+        "gloss": "TAG WEST FREUNDLICH SONST SONNE WOLKE WECHSELHAFT MAL SCHAUER",
+        "text": "am tag ist es im westen freundlich sonst sonne und dichtere wolken im wechsel hier und da fallen einzelne schauer ."
+    },
+    {
+        "gloss": "OST REGION SUEDOST MOEGLICH GEWITTER",
+        "text": "im osten und südosten sind gewitter möglich ."
+    },
+    {
+        "gloss": "DIENSTAG HAUPTSAECHLICH SONNE NORDOST WOLKE MOEGLICH REGEN",
+        "text": "am dienstag ist es meist freundlich im nordosten halten sich dichtere wolken mit etwas regen ."
+    },
+    {
+        "gloss": "OST REGION ANFANG FREUNDLICH SPAETER NORDWEST AUCH SONNE SONST REGION WOLKE",
+        "text": "der tag beginnt ganz im osten noch freundlich später zeigt sich dann auch im nordwesten häufiger die sonne sonst überwiegen die wolken ."
+    },
+    {
+        "gloss": "SCHAUER GEWITTER STARK KUEHL",
+        "text": "vielerorts gibt es schauer und gewitter die heftig ausfallen können ."
+    },
+    {
+        "gloss": "MORGEN SAMSTAG FUENFTE DEZEMBER WIE-AUSSEHEN WETTER",
+        "text": "und nun die wettervorhersage für morgen samstag den fünften dezember ."
+    },
+    {
+        "gloss": "WETTER BISSCHEN RUHIG DANN MORGEN IX REGION TIEF KOMMEN",
+        "text": "nach einer kurzen wetterberuhigung erreicht uns morgen von westen ein neuer tiefausläufer ."
+    },
+    {
+        "gloss": "WOLKE REGEN WENN BERG IX AUCH SCHNEE SCHNEIEN",
+        "text": "der sorgt wieder für wolken die regen im bergland auch schnee bringen ."
+    },
+    {
+        "gloss": "SONNTAG MEHR MILD VIEL WOLKE REGEN NORDWEST WIND",
+        "text": "ab sonntag wird es wieder milder dabei gibt es viele wolken zeitweise fällt regen im nordwesten windig ."
+    },
+    {
+        "gloss": "MONTAG DIENSTAG WECHSELHAFT MAL AUCH SONNE",
+        "text": "montag und dienstag wechselhaft hier und da zeigt sich aber auch die sonne ."
+    },
+    {
+        "gloss": "JETZT WIE-AUSSEHEN WETTER MORGEN SONNTAG FUENFTE DEZEMBER",
+        "text": "und nun die wettervorhersage für morgen sonntag den fünften dezember ."
+    },
+    {
+        "gloss": "WIND KALT DIENSTAG REGEN SCHNEE GRAUPEL",
+        "text": "sehr windiges wetter am dienstag regen schnee und graupelschauer ."
+    },
+    {
+        "gloss": "IX REGEN LANG",
+        "text": "im süden regnet oder schneit es länger ."
+    },
+    {
+        "gloss": "GUT ABEND LIEB ZUSCHAUER BEGRUESSEN",
+        "text": "guten abend liebe zuschauer ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN DIENSTAG FUENFTE JANUAR",
+        "text": "und nun die wettervorhersage für morgen dienstag den fünften januar ."
+    },
+    {
+        "gloss": "NORD WIND MAESSIG KUESTE KOENNEN FRISCH WIND",
+        "text": "im norden mäßiger wind an den küsten weht er teilweise frisch ."
+    },
+    {
+        "gloss": "SUED WIND SCHWACH",
+        "text": "im süden schwacher wind ."
+    },
+    {
+        "gloss": "HEUTE NACHT MINUS ZWEI MINUS ZWANZIG UNTEN ALPEN TAL",
+        "text": "heute nacht minus zwei grad an der nordsee und bis minus zwanzig grad in einzelnen alpentälern ."
+    },
+    {
+        "gloss": "DAZWISCHEN FREUNDLICH",
+        "text": "dazwischen ist es freundlicher ."
+    },
+    {
+        "gloss": "WENN neg-HABEN GEWITTER SCHWACH WEHEN KUESTE WIND",
+        "text": "abseits der gewittern weht der wind schwach bis mäßig an der küste frisch ."
+    },
+    {
+        "gloss": "WIND SCHWACH VERSCHIEDEN WEHEN",
+        "text": "der wind weht meist schwach und kommt aus unterschiedlichen richtungen ."
+    },
+    {
+        "gloss": "MONTAG WECHSELHAFT MAL SONNE WOLKE BESONDERS REGION SCHAUER GEWITTER",
+        "text": "am montag ist es wechselhaft mal sonne mal wolken vor allem in der osthälfte einige kräftige schauer und gewitter ."
+    },
+    {
+        "gloss": "WENN NEBEL VERSCHWINDEN SUED MORGEN SONNE WOLKE KOMMEN ABER WOLKE BEWEGEN",
+        "text": "wenn der verschwunden ist zeigt sich morgen im süden die sonne während sich die wolken weiter richtung donau ausbreiten und dabei immer größere lücken bekommen ."
+    },
+    {
+        "gloss": "DONNERSTAG EXTREM WETTER REGION TEMPERATUR UNTERSCHIED SECHS BIS ZWANZIG GRAD",
+        "text": "der donnerstag wird dann richtig krass da erwarten wir unwetter in deutschland und große temperaturunterschiede sechs bis zwanzig grad ."
+    },
+    {
+        "gloss": "SEHEN KREISEN REGEN KOMMEN neg-HABEN neg-HABEN neg-HABEN",
+        "text": "allerdings sie sehen die regenwolken die erreichen mitteleuropa nicht ."
+    },
+    {
+        "gloss": "MORGEN SCHAUER NICHT VIEL SONNE MEISTENS MENSCHEN FROH",
+        "text": "denn auch morgen gibt es also keine schauer mehr stattdessen viel sonnenschein da freuen sich die meisten natürlich drüber ."
+    },
+    {
+        "gloss": "TEMPERATUR REGEN MEHR KUEHL SONST GUT",
+        "text": "die temperaturen sind außer jetzt im regen wo es ein bisschen kühler bleibt doch ganz erfreulich ."
+    },
+    {
+        "gloss": "HEUTE NACHT VIERZEHN REGION OST NUR SECHS GRAD",
+        "text": "am niederrhein heute nacht vierzehn im osten örtlich nur sechs grad ."
+    },
+    {
+        "gloss": "MORGEN DREIZEHN REGION SONST FUENFZEHN BIS ZWEI ZWANZIG GRAD",
+        "text": "im erzgebirge morgen dreizehn sonst fünfzehn bis zweiundzwanzig grad ."
+    },
+    {
+        "gloss": "BESONDERS SUEDWEST WEHEN",
+        "text": "milde luft kommt aus dem südwesten ."
+    },
+    {
+        "gloss": "FLUSS WEST UND NORD MEHR TROCKEN",
+        "text": "westlich des rheins und im nordosten bleibt es meist trocken ."
+    },
+    {
+        "gloss": "ABER STARK WOLKE HIMMEL KOENNEN NEBEL TEILWEISE SOLL SONNE DABEI",
+        "text": "dabei ist es teils stark bewölkt oder neblig trüb teils freundlich mit sonnenschein ."
+    },
+    {
+        "gloss": "MORGEN SPANIEN KOMMEN DANN FREITAG HAUPTSAECHLICH SCHNEE",
+        "text": "ein weiteres tief das morgen über spanien liegt sorgt dann am freitag bei uns dafür dass es kräftig schneit ."
+    },
+    {
+        "gloss": "BESONDERS NORD SUEDWEST HEUTE NACHT KOENNEN SCHNEE",
+        "text": "vor allem in richtung küste sowie im südwesten kann es in der nacht etwas schneien ."
+    },
+    {
+        "gloss": "WOCHENENDE BLEIBEN TAUEN DAZU REGEN BLEIBEN",
+        "text": "am wochenende setzt sich das starke tauwetter fort begleitet von weiteren regenfällen ."
+    },
+    {
+        "gloss": "MORGEN UNGEFAEHR MITTE EUROPA ACHTZEHN BIS SECHS ZWANZIG GRAD",
+        "text": "also wir haben morgen höchsttemperaturen in mitteleuropa von achtzehn bis sechsundzwanzig grad ."
+    },
+    {
+        "gloss": "OST EUROPA HEISS BIS FUENF ZWANZIG GRAD",
+        "text": "östlich also über osteuropa noch hochsommerlich warm mit um die fünfundzwanzig grad ."
+    },
+    {
+        "gloss": "SUEDWEST KOMMEN MEHR TROCKEN",
+        "text": "vom südwesten bis in die mitte bleibt es meist trocken ."
+    },
+    {
+        "gloss": "MORGEN ACHTZEHN NORD DANN SECHS ZWANZIG REGION",
+        "text": "morgen temperaturen von achtzehn grad an der küste bis sechsundzwanzig im breisgau ."
+    },
+    {
+        "gloss": "MONTAG ABEND BEWOELKT HIER",
+        "text": "sie ziehen in der nacht zum montag über uns hinweg ."
+    },
+    {
+        "gloss": "NACHT HIMMEL KLAR",
+        "text": "in der kommenden nacht ist es meist klar ."
+    },
+    {
+        "gloss": "DIENSTAG BESONDERS OST MEHR FREUNDLICH LANG ABER AUCH DABEI SCHAUER GEWITTER",
+        "text": "am dienstag vor allem richtung osten längere freundliche abschnitte daneben aber auch schauer und gewitter ."
+    },
+    {
+        "gloss": "MORGEN IX MEISTENS WOLKE",
+        "text": "auch morgen in der mitte und im süden gebietsweise stärkere bewölkung ."
+    },
+    {
+        "gloss": "REGION BERG IX BISSCHEN SCHNEE SCHNEIEN MOEGLICH",
+        "text": "in den östlichen berglagen sowie am alpenrand ist ein wenig schnee möglich ."
+    },
+    {
+        "gloss": "MORGEN TEMPERATUR VOGEL LAND MAXIMAL NEUN GRAD",
+        "text": "morgen reichen die temperaturen von einem grad im vogtland bis neun grad am oberrhein ."
+    },
+    {
+        "gloss": "MITTE MEER TIEF KOMMEN NORD KOMMEN MORGEN FAST REGION WOLKE HIMMEL",
+        "text": "das kräftige mittelmeertief dehnt seinen einfluss weiter nach norden aus und sorgt morgen in fast ganz deutschland für einen wolkenverhangenen himmel ."
+    },
+    {
+        "gloss": "NORD MORGEN MUESSEN TROCKEN DANN REGION REGEN VIEL",
+        "text": "im norden bleibt es morgen erst noch trocken sonst fällt verbreitet teilweise ergiebiger regen ."
+    },
+    {
+        "gloss": "BAYERN SACHSEN IX SCHAUER GEWITTER AUCH EIN-PAAR IX KOENNEN SEHEN HIMMEL",
+        "text": "in teilen bayerns und sachsens gibt es neben schauern und gewittern auch wolkenlücken ."
+    },
+    {
+        "gloss": "NORD REGEN",
+        "text": "am tag vor allem im norden regen ."
+    },
+    {
+        "gloss": "WOCHENENDE MEHR WARM WETTER WECHSELHAFT GEWITTER UND SONNE DABEI",
+        "text": "am wochenende wird es dann etwas wärmer das ganze bei wechselhaftem wetter mit schauern gewittern und gelegentlichem sonnenschein ."
+    },
+    {
+        "gloss": "DAZU IX WIND WEHEN LEICHT",
+        "text": "dazu weht nur ein leichter südwind ."
+    },
+    {
+        "gloss": "AUCH BISSCHEN SONNE MORGEN MEISTENS REGEN TAG IM-VERLAUF KOMMEN",
+        "text": "der teilweise kräftige regen breitet sich im tagesverlauf über die mitte weiter nach süden aus ."
+    },
+    {
+        "gloss": "WIND REGION",
+        "text": "dazu weht ein starker wind vor allen dingen wieder über vorpommern aus südost ."
+    },
+    {
+        "gloss": "NACHT STURM",
+        "text": "in der nacht an der see noch stürmische böen ."
+    },
+    {
+        "gloss": "MORGEN UEBERWIEGEND SONNE",
+        "text": "morgen scheint dann wieder überall die sonne ."
+    },
+    {
+        "gloss": "SONNE BISSCHEN WOLKE NORDWEST NACHMITTAG BISSCHEN SCHAUER",
+        "text": "sonst viel sonne ein paar lockere wolken im nordwesten fallen am nachmittag einzelne schauer ."
+    },
+    {
+        "gloss": "SUEDWEST NEBEL NORDOST AUFLOESEN",
+        "text": "besonders in der südwesthälfte bildet sich nebel richtung nordosten auch wolkenlücken ."
+    },
+    {
+        "gloss": "ALPEN SCHNEE",
+        "text": "am alpenrand gibt es auch morgen noch leichten schneefall ."
+    },
+    {
+        "gloss": "WIND SCHWACH WEHEN",
+        "text": "der wind weht meist schwach aus ost bis nordost ."
+    },
+    {
+        "gloss": "AB FREITAG MEHR SCHNEE",
+        "text": "es sorgt nämlich am und ab freitag dafür dass es bei uns stärker schneit ."
+    },
+    {
+        "gloss": "WOCHENENDE AUCH IX SCHNEE KOENNEN",
+        "text": "auch am wochenende schneit es zeitweise ."
+    },
+    {
+        "gloss": "BLEIBEN WIND",
+        "text": "es bleibt windig ."
+    },
+    {
+        "gloss": "VIEL WASSER STROEMEN KOENNEN UEBERSCHWEMMUNG",
+        "text": "die wassermassen die da zusammenkommen können überschwemmungen verursachen ."
+    },
+    {
+        "gloss": "WIND SCHWACH UNTERSCHIED KOMMEN",
+        "text": "der wind weht meist schwach aus unterschiedlichen richtungen ."
+    },
+    {
+        "gloss": "IX AUCH FRISCH IX KOMMEN",
+        "text": "an der see lebt er auch mal ein wenig auf und kommt aus west ."
+    },
+    {
+        "gloss": "SPAETER BISSCHEN MEHR TROCKEN REGION",
+        "text": "später ist es meist trocken ."
+    },
+    {
+        "gloss": "MORGEN GEWITTER TEIL HAGEL STURM NACHT KOMMEN NORD LANG REGEN",
+        "text": "gewitterschauer örtlich mit hagel starkregen und sturmböen ziehen in der nacht ostwärts im norden regnet es länger ."
+    },
+    {
+        "gloss": "WEHEN SCHWACH REGION FRISCH",
+        "text": "der wind weht schwach bis mäßig am meer auch frisch ."
+    },
+    {
+        "gloss": "HEUTE NACHT ZWOELF GRAD REGION EINS GRAD BAYERN WALD REGION",
+        "text": "heute nacht zwölf grad in der kölner bucht und ein grad im bayerischen wald ."
+    },
+    {
+        "gloss": "HEISS ZWANZIG BIS ACHT ZWANZIG GRAD NORD WENIGER",
+        "text": "am tag werte zwischen zwanzig und achtundzwanzig grad an der ostsee werte darunter ."
+    },
+    {
+        "gloss": "SCHWACH WEHEN BERG WEHEN NORD WEHEN IX WEHEN",
+        "text": "schwacher bis mäßiger auf den bergen in böen auch starker wind in der nordhälfte aus ost bis nordost sonst aus unterschiedlichen richtungen ."
+    },
+    {
+        "gloss": "MORGEN VOR MITTAG NORD STARK WIND WEHEN SCHWACH",
+        "text": "morgen vormittag an der ostsee noch starke böen sonst weht der wind schwach bis mäßig aus ost bis südost ."
+    },
+    {
+        "gloss": "TIEF O+P+H+E+L+I+A KALT KOMMEN MITTE EUROPA",
+        "text": "und das mit tief ophelia das die kaltluft mit kräftigen schauern richtung mitteleuropa treibt ."
+    },
+    {
+        "gloss": "BERG SCHON SCHNEE",
+        "text": "in den alpen wird es dann sogar schneien ."
+    },
+    {
+        "gloss": "WEST NORDWEST IX SCHAUER IX",
+        "text": "im westen und nordwesten fallen einzelne schauer ."
+    },
+    {
+        "gloss": "WEHEN REGION FRISCH WIND SCHAUER IX",
+        "text": "frischer wind mit starken bis stürmischen böen bei schauern an der nordsee und auf den bergen teilweise sturmböen ."
+    },
+    {
+        "gloss": "DIENSTAG NORDOST WIND DAZU REGEN KURZ REGEN KOENNEN",
+        "text": "dort wird es am dienstag windig dazu gibt es einzelne schauer ."
+    },
+    {
+        "gloss": "SUEDWEST REGEN ORT REGION FREUNDLICH",
+        "text": "im süden und südwesten gebietsweise regen sonst recht freundlich ."
+    },
+    {
+        "gloss": "MORGEN WIND WEHEN SCHWACH NORD UEBERWIEGEND WIND",
+        "text": "morgen wieder schwacher im norden mäßiger wind aus süd bis südwest an der nordsee starke böen ."
+    },
+    {
+        "gloss": "HEUTE NACHT VIERZEHN IX UNTEN ALPEN VIER DANN",
+        "text": "heute nacht werte zwischen vierzehn grad an der see und vier grad an den alpen ."
+    },
+    {
+        "gloss": "SCHWACH NORD STURM WEHEN NORD SUED SCHWER WEHEN STURM",
+        "text": "schwacher bis mäßiger im norden auch frischer wind aus ost bis südost an der nordsee und auf den bergen ist er stark mit stürmischen böen ."
+    },
+    {
+        "gloss": "DONNERSTAG WECHSELHAFT FREITAG WEST KOMMEN FREUNDLICH",
+        "text": "am donnerstag noch unbeständig aber ab freitag wird es von westen langsam freundlicher ."
+    },
+    {
+        "gloss": "HALLO GUT ABEND LIEB IX ZUSCHAUER BEGRUESSEN",
+        "text": "hallo und guten abend liebe zuschauer ."
+    },
+    {
+        "gloss": "MORGEN SUEDOST WIRKLICH WIE HEUTE UNGEFAEHR NORDWEST WOLKE MEHR IX",
+        "text": "und morgen wird es dann in der südosthälfte nochmal ähnlich werden wie heute allerdings im nordwesten bereits dichtere wolken ."
+    },
+    {
+        "gloss": "IM-VERLAUF UMSTELLEN REDUZIEREN KUEHL BESONDERS SAMSTAG SONNTAG",
+        "text": "in den nächsten tagen wird das dann nicht mehr der fall sein dann wird es insgesamt ein bisschen kühler vor allen dingen zum wochenende hin ."
+    },
+    {
+        "gloss": "JETZT WIE-AUSSEHEN MORGEN DONNERSTAG ACHTE APRIL WETTER",
+        "text": "und nun die wettervorhersage für morgen donnerstag den achten april ."
+    },
+    {
+        "gloss": "NORDOST WOLKE VIEL IX WENIG",
+        "text": "mehr wolken als sonne gibt es im norden und osten tropfen fallen nur vereinzelt ."
+    },
+    {
+        "gloss": "IX SCHON WARNUNG DEUTSCH WETTER DIENST STURM KOENNEN",
+        "text": "es gelten entsprechende warnungen des deutschen wetterdienstes ."
+    },
+    {
+        "gloss": "IX KOENNEN SONNE",
+        "text": "richtung südwesten und nordosten lässt sich die sonne auch mal blicken ."
+    },
+    {
+        "gloss": "BISSCHEN WEHEN TEMPERATUR ALPEN IX KOENNEN BIS ZEHN GRAD",
+        "text": "mit föhnunterstützung klettern die temperaturen am alpenrand bis zehn grad ."
+    },
+    {
+        "gloss": "FREITAG SUEDWEST SCHNEE REGEN TIEF WEST AUCH HABEN2 REGEN",
+        "text": "am freitag schneit es im westen und süden ab und an in tiefen lagen im westen auch regen ."
+    },
+    {
+        "gloss": "SUEDWEST NULL OST MINUS SIEBEN MOEGLICH",
+        "text": "im südwesten morgen werte um den gefrierpunkt im osten bis minus sieben grad ."
+    },
+    {
+        "gloss": "GUT ABEND LIEB ZUSCHAUER",
+        "text": "guten abend liebe zuschauer ."
+    },
+    {
+        "gloss": "IX REGION ZWISCHEN ACHTZEHN ZWISCHEN DREI ZWANZIG IX OST NUR ZWOELF ZWISCHEN SIEBZEHN GRAD",
+        "text": "also die temperaturen im westen wieder zwischen etwa achtzehn und dreiundzwanzig grad im osten sind es aber nur noch zwölf bis siebzehn grad ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN FREITAG ACHTE OKTOBER",
+        "text": "und nun die wettervorhersage für morgen freitag den achten oktober ."
+    },
+    {
+        "gloss": "BESONDERS IX NORD HEUTE NACHT MEISTENS WOLKE WAHRSCHEINLICH REGEN",
+        "text": "vor allem im norden zeigen sich heute nacht noch dichte wolken vereinzelt fällt etwas regen ."
+    },
+    {
+        "gloss": "SUED VIEL NEBEL HOCH NEBEL MORGEN STARK NEBEL",
+        "text": "besonders in der südhälfte gibt es nebel oder hochnebel der sich morgen wieder teilweise zäh halten kann ."
+    },
+    {
+        "gloss": "HEUTE NACHT ALLGAEU IX NORD VIER GRAD FLUSS DANN NORD DREIZEHN",
+        "text": "vier grad heute nacht im allgäu sowie an der oder dreizehn grad an der nordsee ."
+    },
+    {
+        "gloss": "RUHIG TROCKEN FREUNDLICH NAECHSTE BLEIBEN",
+        "text": "das ruhige trockene und zum teil recht freundliche hochdruckwetter begleitet uns auch in den nächsten tagen ."
+    },
+    {
+        "gloss": "REGION HEUTE NACHT STURM",
+        "text": "an der ostsee heute nacht örtlich stürmische böen ."
+    },
+    {
+        "gloss": "MORGEN LEICHT MAESSIG WIND NORDWEST FRISCH WEHEN",
+        "text": "morgen schwacher bis mäßiger an der see frischer wind aus südwest bis west ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN MITTWOCH ACHTE SEPTEMBER",
+        "text": "und nun die wettervorhersage für morgen mittwoch den achten september ."
+    },
+    {
+        "gloss": "NORD FRISCH IX WEHEN IX WEHEN IM-VERLAUF SPAETER NORD STARK WEHEN",
+        "text": "schwacher bis mäßiger im norden zum teil frischer südost bis ostwind der im südwesten später auf südwest dreht an den küsten bläst er stark mit stürmischen böen ."
+    },
+    {
+        "gloss": "DOCH WOLKE ABER REGEN WENIG",
+        "text": "das tief sorgt auch noch für wolken aber es fällt nur wenig regen ."
+    },
+    {
+        "gloss": "MORGEN NEUN GRAD IX MAXIMAL SIEBZEHN GRAD REGION",
+        "text": "morgen reichen die temperaturen von neun grad an der ostsee bis siebzehn grad im breisgau ."
+    },
+    {
+        "gloss": "MONTAG ANFANG AB LOS WECHSELHAFT KUEHL",
+        "text": "auch die neue woche beginnt durchwachsen und recht kühl ."
+    },
+    {
+        "gloss": "GUT ABEND LIEB ZUSCHAUER BEGRUESSEN",
+        "text": "guten abend liebe zuschauer ."
+    },
+    {
+        "gloss": "MORGEN TAG TRUEB",
+        "text": "es wird morgen ein ziemlich trüber tag bei uns in deutschland ."
+    },
+    {
+        "gloss": "SUED OST NOCH REGEN BERG SCHNEE NORD REGION NACH MITTAG ANFANG REGEN",
+        "text": "zunächst regnet es richtung südosten noch etwas im bergland auch schnee am nachmittag regnet es im westen und nordwesten ."
+    },
+    {
+        "gloss": "TRUEB DIESE BILD",
+        "text": "es bleibt meist trüb wie auf diesem bild hier ."
+    },
+    {
+        "gloss": "WEST KAUM SCHNEE AUFTAUCHEN ABER AUSNAHME ACHTUNG MEER",
+        "text": "und im westen haben wir kaum noch schnee aber es gibt eben auch ausnahmen die mittelgebirge ."
+    },
+    {
+        "gloss": "WEST MEHR MILD MINUS VIER BIS MINUS SIEBEN",
+        "text": "dazu im westen allerdings etwas milder mit minus vier bis minus sieben grad ."
+    },
+    {
+        "gloss": "MORGEN ERWARTEN NOCHEINMAL RUHIG WETTER IX TROCKEN WINTER",
+        "text": "morgen erwartet uns nochmals recht ruhiges und vielerorts trockenes winterwetter ."
+    },
+    {
+        "gloss": "SUED WIND MAESSIG NORD WIND STARK EIN-PAAR WIND NORD MEER WIE ORKAN MOEGLICH",
+        "text": "im süden mäßiger wind nach norden weht er frisch bis stark mit einzelnen sturmböen an der ostsee und auf den bergen sind orkanartige böen möglich ."
+    },
+    {
+        "gloss": "OST MEISTENS SONNE",
+        "text": "richtung osten ist es meist sonnig ."
+    },
+    {
+        "gloss": "MONTAG IN-KOMMEND AUCH SONNE ABER SCHWER GEWITTER DABEI",
+        "text": "auch am montag neben sonne zum teil schwere gewitter ."
+    },
+    {
+        "gloss": "SCHOTTLAND TIEF KOMMEN MORGEN REGION",
+        "text": "die wolken eines tiefs bei schottland erreichen uns morgen von westen her ."
+    },
+    {
+        "gloss": "BAYERN SUED WARNUNG DEUTSCH IX WETTER DIENST NACHT SUED ENORM GEWITTER",
+        "text": "für teile südbayerns gelten warnungen des deutschen wetterdienstes da in der nacht dort wie auch im süden sich hier und da gewitter entladen ."
+    },
+    {
+        "gloss": "SUEDOST DEUTSCH LAND BLEIBEN LANG IM-VERLAUF GUT IM-VERLAUF MOEGLICH GEWITTER",
+        "text": "in der südosthälfte deutschlands bleibt es unter leichtem hochdruckeinfluss noch am längsten freundlich aber auch dort kann es später kräftig krachen ."
+    },
+    {
+        "gloss": "NORDWEST MORGEN WECHSEL SONNE WOLKE DAZU STARK REGEN NACH MITTAG GEWITTER",
+        "text": "in der nordwesthälfte morgen mal sonne mal wolken und immer wieder zum teil kräftige am nachmittag auch gewittrige schauer ."
+    },
+    {
+        "gloss": "DONNERSTAG FREITAG WETTER BLEIBEN",
+        "text": "donnerstag und freitag ändert sich wenig an diesem wetter ."
+    },
+    {
+        "gloss": "HEUTE FEUCHT WARM HEISS ENORM MOEGLICH GEWITTER AUCH STARK",
+        "text": "die schwüle hitze in dem noch etwas zu und die gewitter können lokal unwetterartig sein ."
+    },
+    {
+        "gloss": "DEUTSCH LAND SCHWACH DRUCK UNTERSCHIED",
+        "text": "in deutschland gibt es nur schwache luftdruckunterschiede ."
+    },
+    {
+        "gloss": "REGION FEUCHT REGION IX GEWITTER REGION",
+        "text": "vom mittelmeer fließt feuchte luft heran in der sich zum teil kräftige gewitter entwickeln können ."
+    },
+    {
+        "gloss": "ABEND LIEB ZUSCHAUER poss-EUCH",
+        "text": "guten abend liebe zuschauer ."
+    },
+    {
+        "gloss": "EUROPA REGION WETTER UNTERSCHIED",
+        "text": "das wetter in europa hat viel zu bieten ."
+    },
+    {
+        "gloss": "E REGION IN-KOMMEND ZWEI-TAG WETTER STARK TIEF KOMMEN",
+        "text": "das wetter in teilen europas wird in den kommenden beiden tagen bestimmt von einem umfangreichen tiefdruckgebiet ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN FREITAG NEUN OKTOBER",
+        "text": "und nun die wettervorhersage für morgen freitag den neunten oktober ."
+    },
+    {
+        "gloss": "NORD HEUTE NACHT WIND",
+        "text": "an der ostsee heute nacht stürmische böen aus west ."
+    },
+    {
+        "gloss": "MORGEN SCHWACH MAESSIG WEHEN",
+        "text": "morgen schwacher bis mäßiger ostwind ."
+    },
+    {
+        "gloss": "SAMSTAG DANN REGEN KOMMEN",
+        "text": "am samstag überquert uns ein regengebiet von west nach ost ."
+    },
+    {
+        "gloss": "OST ERSTMAL FREUNDLICH",
+        "text": "im osten aber erst noch freundliche abschnitte ."
+    },
+    {
+        "gloss": "WEST KOMMEN LOCH SONNE DA",
+        "text": "auch im westen gibt es später wolkenlücken ."
+    },
+    {
+        "gloss": "S+H VOR POMMERN UND BRAND BURG MORGEN DURCHGEHEND REGEN",
+        "text": "am tag von schleswig holstein bis nach vorpommern und zunächst auch in brandenburg gebietsweise länger andauernder regen ."
+    },
+    {
+        "gloss": "SAMSTAG IX NOCH BISSCHEN REGEN SONST REGION FREUNDLICH TROCKEN",
+        "text": "am samstag regnet es noch etwas in küstennähe sonst meist freundlich und trocken ."
+    },
+    {
+        "gloss": "WIND SCHWACH SUED WIND ZEIGEN-BILDSCHIRM",
+        "text": "abseits der gewitter schwacher bis mäßiger wind ."
+    },
+    {
+        "gloss": "RUSSLAND IX TROCKEN HEISS SCHEINEN FUENF DREISSIG BIS VIERZIG GRAD",
+        "text": "ganz anders die trockene hitze über russland mit fünfunddreißig bis vierzig grad ."
+    },
+    {
+        "gloss": "DIESE BLEIBEN BRAND WEITER",
+        "text": "das bleibt auch noch in dieser woche so so dass die brände weiter schwelen werden ."
+    },
+    {
+        "gloss": "HIER HEUTE NACHT SUEDOST FRISCH ZEHN ELF GRAD",
+        "text": "bei uns wird es richtig frisch heute nacht im südosten da sind es zehn elf grad etwa ."
+    },
+    {
+        "gloss": "SAMSTAG SCHNEE WENIG REGION MANCHMAL JA",
+        "text": "am samstag schneit es nur gebietsweise etwas ."
+    },
+    {
+        "gloss": "ZUERST GEWITTER NUR WEST RISIKO JEDEN-TAG OST MEHR OST KOENNEN GEWITTER WEST",
+        "text": "zunächst ist das gewitterrisiko nur im westen erhöht von tag zu tag steigt es aber auch richtung osten ."
+    },
+    {
+        "gloss": "NACHT BLEIBEN WARM",
+        "text": "die nächte werden auch im moment jetzt sehr warm sein ."
+    },
+    {
+        "gloss": "NACHT UNTER ZWANZIG GRAD neg-WAHRSCHEINLICH KAUM",
+        "text": "die kommende nacht teilweise nicht unter zwanzig grad in einigen städten ."
+    },
+    {
+        "gloss": "DAZU LUFT ENORM WARM FEUCHT KOENNEN GEWITTER",
+        "text": "zusammen mit der schwül heißen luft sorgt es für zum teil heftige gewitter ."
+    },
+    {
+        "gloss": "DEUTSCH WETTER DIENST BEKANNTGEBEN MOEGLICH GEWITTER KOMMEN",
+        "text": "der deutsche wetterdienst hat entsprechende unwetterwarnungen herausgegeben ."
+    },
+    {
+        "gloss": "SUEDOST REGION VERSCHWINDEN LANGSAM IM-VERLAUF",
+        "text": "und das wetter im südöstlichen mittelmeer das beruhigt sich nur langsam ."
+    },
+    {
+        "gloss": "JETZT SCHOEN ABEND TSCHUESS",
+        "text": "jetzt wünsche ich ihnen noch einen schönen abend ."
+    },
+    {
+        "gloss": "HEUTE ABEND OST REGION REGEN GEWITTER KOENNEN WIND REGEN",
+        "text": "die gewitterfront heute nacht noch über dem osten und dabei anfangs auch noch einzelne unwetterartige gewitter ."
+    },
+    {
+        "gloss": "ANKLICKEN TEXT ODER INTERNET ANSCHAUEN KOENNEN",
+        "text": "entweder über den teletext oder auch über das internet ."
+    },
+    {
+        "gloss": "DANN BIS VIER ZWANZIG GRAD REGION",
+        "text": "mit der leicht kühleren luft dann bis vierundzwanzig grad in der nordhälfte ."
+    },
+    {
+        "gloss": "SUED REGION BIS SIEBEN ZWANZIG GRAD",
+        "text": "im süden oder in der mitte auch bis siebenundzwanzig grad ."
+    },
+    {
+        "gloss": "NORD KOENNEN SONNE AB-SO AUFKOMMEN",
+        "text": "und vor allem im nordwesten kann die sonne rauskommen bei einem frischen nord bis nordostwind ."
+    },
+    {
+        "gloss": "SAMSTAG NOCH SCHNEE",
+        "text": "samstag fällt auch noch schnee ."
+    },
+    {
+        "gloss": "NORD SCHNEE REGEN WECHSELHAFT",
+        "text": "teilweise im nordwesten ein bisschen schneeregen ."
+    },
+    {
+        "gloss": "SCHNEE AUCH FROST",
+        "text": "das heißt weitere schneefälle und leichten bis mäßigen dauerfrost ."
+    },
+    {
+        "gloss": "FUER HEUTE WETTER BESSER RUHIG",
+        "text": "am wochenende beruhigt sich dann das wetter langsam ."
+    },
+    {
+        "gloss": "SAMSTAG TEIL SCHNEE BISSCHEN NORD REGION KLAR HIMMEL",
+        "text": "am samstag schneit es gebietsweise leicht ganz im norden lichtblicke ."
+    },
+    {
+        "gloss": "WEST SCHNEE REGEN GLATT",
+        "text": "es sorgt von westen für regen schnee und glätte ."
+    },
+    {
+        "gloss": "IN-KOMMEND DANN WECHSELHAFT STARK MILD",
+        "text": "im verlauf der woche geht es dann unbeständig und sehr mild weiter ."
+    },
+    {
+        "gloss": "WOCHENENDE SONNE SAMSTAG SCHOEN TEMPERATUR BIS SIEBZEHN GRAD REGION",
+        "text": "sonnig geht es auch ins wochenende samstag ein herrlicher tag mit temperaturen bis siebzehn grad hier im westen ."
+    },
+    {
+        "gloss": "HEUTE NACHT SUED ANFANG BISSCHEN GEWITTER IX SONST REGION REGEN IX KOENNEN AUCH NEBEL",
+        "text": "heute nacht sind im süden anfangs noch einzelne gewitter möglich sonst fällt nur hier und da regen stellenweise bildet sich nebel ."
+    },
+    {
+        "gloss": "JETZT WETTER MORGEN MONTAG ZWOELF APRIL ZEIGEN-BILDSCHIRM",
+        "text": "und nun die wettervorhersage für morgen montag den zwölften april ."
+    },
+    {
+        "gloss": "BEREICH SUED MEHR FREUNDLICH",
+        "text": "südlich des mains morgen verbreitet freundlich ."
+    },
+    {
+        "gloss": "SONST VIEL WOLKE NORD KOMMEN SCHAUER GEWITTER KOENNEN",
+        "text": "ansonsten viele wolken die erst im norden später auch in der mitte mancherorts regenschauer und vereinzelte gewitter bringen ."
+    },
+    {
+        "gloss": "HEUTE REGION SCHWACH MAESSIG WIND ZEIGEN-BILDSCHIRM",
+        "text": "schwacher im norden auch mäßiger an der küste frischer und zeitweise stark böiger westwind ."
+    },
+    {
+        "gloss": "WETTER WIE-AUSSEHEN poss-MEIN SAMSTAG ZWOELF DEZEMBER",
+        "text": "und nun die wettervorhersage für morgen samstag den zwölften dezember ."
+    },
+    {
+        "gloss": "SCHNEE BIS SECHSHUNDERT BIS DREIHUNDERT METER BERG",
+        "text": "die schneefallgrenze sinkt auf sechshundert bis dreihundert meter ."
+    },
+    {
+        "gloss": "MITTWOCH poss-SEIN GLEICH MINUS NEUN BIS MINUS EINS GRAD",
+        "text": "und daran ändert sich auch am mittwoch nichts bei minus neun bis minus ein grad ."
+    },
+    {
+        "gloss": "WOCHENENDE IM-VERLAUF MEHR TROCKEN ABER BLEIBEN KALT",
+        "text": "im laufe des wochenendes wird es dann immer trockener kalt bleibt es aber ."
+    },
+    {
+        "gloss": "JETZT WIE-AUSSEHEN IX WETTER MORGEN MITTWOCH ZWOELFTE JANUAR",
+        "text": "und nun die wettervorhersage für morgen mittwoch den zwölften januar ."
+    },
+    {
+        "gloss": "NORDOST IX BAYERN OST SCHNEE SCHNEIEN UND REGEN MIT FROST BODEN",
+        "text": "in der nacht ist im nordosten in ostbayern und im bergland teilweise schnee oder gefrierender regen möglich ."
+    },
+    {
+        "gloss": "SUED FREUNDLICH TEIL",
+        "text": "im süden verläuft der tag teilweise freundlich ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN SONNTAG ZWOELF JULI",
+        "text": "und nun die wettervorhersage für morgen sonntag den zwölften juli ."
+    },
+    {
+        "gloss": "HEUTE NACHT SINKEN VIERZEHN BIS SIEBEN GRAD",
+        "text": "in der nacht sinken die temperaturen auf vierzehn bis sieben grad ."
+    },
+    {
+        "gloss": "MORGEN KOENNEN SIEBZEHN REGION FUENF ZWANZIG REGION",
+        "text": "morgen höchstwerte zwischen siebzehn grad im emsland und fünfundzwanzig grad am oberrhein ."
+    },
+    {
+        "gloss": "DIENSTAG MITTWOCH SONNE WOLKE WECHSELHAFT SCHAUER TYPISCH REGION REGEN GEWITTER KOENNEN",
+        "text": "auch am dienstag und mittwoch mal sonne mal wolken dazu schauer in der südosthälfte teils schwere gewitter ."
+    },
+    {
+        "gloss": "HEUTE NACHT MEHR LOCKER WOLKE ODER KLAR STERN SEHEN NORDWEST WOLKE",
+        "text": "heute nacht ist es meist nur locker bewölkt oder klar im nordwesten gibt es auch mal ein paar dichtere wolken ."
+    },
+    {
+        "gloss": "MORGEN VOR MITTAG REGEN OST REGION REGEN BRAND BURG REGEN VOR POMMERN OST",
+        "text": "morgen vormittag bleibt von dem ganzen starken regen noch hier im osten einige gewitter hängen in brandenburg starker regen in vorpommern und an der ostsee ."
+    },
+    {
+        "gloss": "ZWANZIG GRAD IN-KOMMEND",
+        "text": "und so warm mit zwanzig grad wird es nicht mehr in den nächsten tagen ."
+    },
+    {
+        "gloss": "DONNERSTAG BESONDERS SUED SUEDOST REGEN IX",
+        "text": "am donnerstag regnet es vor allem im süden und osten mancherorts ."
+    },
+    {
+        "gloss": "IM-VERLAUF AUCH WOLKE REGEN",
+        "text": "später ziehen dort auch wolken mit etwas regen auf ."
+    },
+    {
+        "gloss": "WIND SCHWACH MAESSIG WEHEN",
+        "text": "der wind weht schwach bis mäßig aus süd bis südwest ."
+    },
+    {
+        "gloss": "TEILWEISE REGEN KOMMEN IX",
+        "text": "teilweise kräftiger regen zieht heute nacht über uns ostwärts ."
+    },
+    {
+        "gloss": "NORDWEST VERSCHWINDEN NORD KOENNEN BISSCHEN GEWITTER",
+        "text": "dahinter lockert es im norden und der mitte teilweise auf an der nordsee vereinzelt kurze gewitter ."
+    },
+    {
+        "gloss": "JETZT WETTER MORGEN SAMSTAG ZWOELF SEPTEMBER",
+        "text": "und nun die wettervorhersage für morgen samstag den zwölften september ."
+    },
+    {
+        "gloss": "DEUTSCH LAND KOMMEN KUEHL WEHEN",
+        "text": "relativ kühle luft strömt zu uns nach deutschland ."
+    },
+    {
+        "gloss": "TIEF KOMMEN NUR SCHWACH",
+        "text": "tiefausläufer erreichen uns zunächst nur in abgeschwächter form ."
+    },
+    {
+        "gloss": "SONST WECHSELHAFT SONNE WOLKE",
+        "text": "sonst ein wechsel aus sonne und wolken ."
+    },
+    {
+        "gloss": "WIND SCHWACH MAESSIG KUESTE MEER AUCH FRISCH WEHEN",
+        "text": "der wind weht schwach bis mäßig an der nordsee und im bergland auch frischer wind ."
+    },
+    {
+        "gloss": "HEUTE NACHT VIERZEHN ZWISCHEN SIEBEN",
+        "text": "heute nacht liegen die werte zwischen vierzehn und sieben grad ."
+    },
+    {
+        "gloss": "MORGEN SO NORD GUT SONNE VIEL BESONDERS KUESTE VIEL SONNE",
+        "text": "morgen bleibt durch diese wetterlage der norden begünstigt mit relativ viel sonne hauptsächlich an der nordsee ."
+    },
+    {
+        "gloss": "DONNERSTAG SUEDOST WEITER WECHSELHAFT NORDWEST MEHR FREUNDLICH SONNE",
+        "text": "am donnerstag ist es in der südosthälfte weiterhin wechselhaft nach nordwesten hin ist es freundlich ."
+    },
+    {
+        "gloss": "FREITAG SONNE WOLKE SUED ANFANG REGEN",
+        "text": "am freitag teils sonne teils wolken im äußersten süden anfangs noch regnerisch ."
+    },
+    {
+        "gloss": "DEUTSCH LAND KOMMEN KUEHL HEISS GETRENNT WARMFRONT",
+        "text": "quer über deutschland liegt eine luftmassengrenze die kühlere meeresluft von heißer luft aus dem südosten trennt ."
+    },
+    {
+        "gloss": "NACHT SCHNEE LEICHT KUESTE TIEF SUED REGEN DABEI",
+        "text": "in der nacht schneit es ab und zu leicht an den küsten sowie anfangs auch in tiefen lagen ist regen mit dabei ."
+    },
+    {
+        "gloss": "WEST HIMMEL STERN KOENNEN SEHEN ABER negalp-STIMMT MORGEN WIEDER REGEN",
+        "text": "der sternenklare himmel im westen der täuscht denn morgen wird es wieder regnen ."
+    },
+    {
+        "gloss": "ABER WEST WOLKE DICK IX ANFANG REGEN",
+        "text": "im westen allerdings nimmt die bewölkung später zu und es beginnt zu regnen ."
+    },
+    {
+        "gloss": "BERG ANFANG IX SCHNEE AUCH",
+        "text": "in den bergen anfangs ist auch schnee dabei ."
+    },
+    {
+        "gloss": "NORDWEST REGEN KOMMEN",
+        "text": "sonst zieht das regengebiet nach osten ."
+    },
+    {
+        "gloss": "TIEF KOMMEN IN-KOMMEND IN-KOMMEND REGEN STURM",
+        "text": "atlantische tiefausläufer bringen uns die ganze woche über regenfälle und zum teil stürmische winde ."
+    },
+    {
+        "gloss": "HEUTE NACHT NOCH KALT HAUPTSAECHLICH MITTE BERG REGION",
+        "text": "heute nacht wird es aber nochmal ziemlich eisig vor allen dingen in den mittelgebirgen ."
+    },
+    {
+        "gloss": "MORGEN FRUEH WAHRSCHEINLICH SUED REGION MOEGLICH SCHNEE",
+        "text": "und im laufe der nacht oder gegen morgen wahrscheinlich erst wird es dann im südwesten anfangen zu schneien ."
+    },
+    {
+        "gloss": "HOCH WASSER GEFAHR WETTER DIENST WARNUNG UNWETTER",
+        "text": "die hochwassergefahr steigt wieder es gelten entsprechende unwetterwarnungen des deutschen wetterdienstes ."
+    },
+    {
+        "gloss": "WEST NORDWEST VERSCHWINDEN",
+        "text": "im westen und nordwesten beruhigt sich das wetter später wieder ."
+    },
+    {
+        "gloss": "MORGEN OST SUEDOST MISCHUNG SONNE WOLKE TEILWEISE REGEN GEWITTER",
+        "text": "morgen gibt es im osten und südosten bei einer mischung aus sonne und wolken zum teil kräftige schauer oder gewitter ."
+    },
+    {
+        "gloss": "NORMAL KUEHL ANGENEHM JA DANN DONNERSTAG NORD REGEN STURM WEHEN KOENNEN",
+        "text": "und in dieser kühleren eigentlich angenehmeren luft gibt es am donnerstag zumindest im norden noch kräftigen regen stürmischen wind ."
+    },
+    {
+        "gloss": "SAMSTAG SUEDOST REGEN NORD DANN WIND STARK SONST REGEN IX TEILWEISE AUCH SONNE DABEI",
+        "text": "am samstag regnet es im südosten und an der ostsee dort ist es teilweise windig sonst regnet es nur vereinzelt teilweise zeigt sich die sonne ."
+    },
+    {
+        "gloss": "JETZT MORGEN WETTER WIE-AUSSEHEN DREIZEHN OKTOBER",
+        "text": "und nun die wettervorhersage für morgen dienstag den dreizehnten oktober ."
+    },
+    {
+        "gloss": "WEST FREUNDLICH",
+        "text": "im westen ist es freundlich ."
+    },
+    {
+        "gloss": "AUCH DONNERSTAG",
+        "text": "ähnliches wetter dann auch am donnerstag ."
+    },
+    {
+        "gloss": "FREITAG VIEL WOLKE BEWOELKT",
+        "text": "am freitag insgesamt viele wolken die regen bringen ."
+    },
+    {
+        "gloss": "SUEDOST SCHNEE KOENNEN",
+        "text": "im osten und südosten auch schnee oder schneeregen ."
+    },
+    {
+        "gloss": "REGION HOCH DRUCK KOMMEN SKANDINAVIEN KOMMEN DARUM KOMMEN FREUNDLICH",
+        "text": "sonst sorgt die hochdruckzone die vom atlantik bis nach skandinavien reicht für freundliches wetter ."
+    },
+    {
+        "gloss": "OST SIEBEN GRAD FUENFZEHN FLUSS",
+        "text": "am tag sieben grad an der ostsee und fünfzehn grad am rhein ."
+    },
+    {
+        "gloss": "SAMSTAG VIEL SONNE BESONDERS ALPEN KUESTE WOLKE KOENNEN",
+        "text": "am samstag viel sonnenschein vor allem an alpen und küsten ist es auch mal wolkig ."
+    },
+    {
+        "gloss": "SONNTAG WIEDER WECHSELHAFT SCHAUER GEWITTER ORT STARK",
+        "text": "am sonntag wird es wieder unbeständiger mit einzelnen schauern und gewittern die örtlich heftig sein können ."
+    },
+    {
+        "gloss": "MONTAG WECHSELHAFT BISSCHEN KUEHL",
+        "text": "die neue woche beginnt noch wechselhaft und etwas kühler ."
+    },
+    {
+        "gloss": "NORDWEST MORGEN ZWANZIG BIS DREI ZWANZIG GRAD REGION FUENF ZWANZIG BIS NEUN ZWANZIG GRAD",
+        "text": "im norden und westen morgen zwanzig bis dreiundzwanzig sonst sommerliche fünfundzwanzig bis neunundzwanzig grad ."
+    },
+    {
+        "gloss": "NORD HEUTE NACHT MINUS ZWEI BERG BIS MINUS FUENFZEHN GRAD",
+        "text": "an der ostseeküste heute nacht minus zwei am alpenrand bis minus fünfzehn grad ."
+    },
+    {
+        "gloss": "FREITAG MEHR RUHIG",
+        "text": "am freitag beruhigt sich das wetter wieder ."
+    },
+    {
+        "gloss": "DEUTSCH LAND IRLAND UND MITTE",
+        "text": "deutschland liegt zwischen einem tief bei irland und einem mittelmeerhoch ."
+    },
+    {
+        "gloss": "REGION HOCH SCHWUEL HEISS KOMMEN REGION MAESSIG WARM",
+        "text": "das hoch lenkt schwül heiße luft in den südosten das tief nur mäßig warme meeresluft in den nordwesten ."
+    },
+    {
+        "gloss": "GRENZE TEILWEISE STARK GEWITTER REGEN",
+        "text": "an der luftmassengrenze kommt es zu teilweise starken und gewittrigen regenfällen ."
+    },
+    {
+        "gloss": "HEUTE NACHT RHEINLAND-PFALZ IX BADEN WUERTTEMBERG BIS REGION THUERINGEN REGEN",
+        "text": "und die breiten sich heute nacht von rheinland pfalz und baden württemberg bis nach thüringen aus ."
+    },
+    {
+        "gloss": "LUFT DRUCK TIEF REGEN VERLAENGERN REGEN",
+        "text": "tiefer luftdruck sorgt für regenfälle die teilweise lang anhaltend und ergiebig sind ."
+    },
+    {
+        "gloss": "IM-VERLAUF REGEN KOMMEN DANN WEST MEHR FREUNDLICH",
+        "text": "im weiteren verlauf breitet sich der regen richtung osten aus dann wird es im westen freundlicher ."
+    },
+    {
+        "gloss": "NORDWEST WIND KOMMEN",
+        "text": "im westen und nordwesten frischer wind ."
+    },
+    {
+        "gloss": "AEHNLICH WETTER DONNERSTAG",
+        "text": "ähnliches wetter auch am donnerstag ."
+    },
+    {
+        "gloss": "FREITAG SUEDWEST SONNE IM-VERLAUF",
+        "text": "am freitag ist es im südwesten zunächst freundlich ."
+    },
+    {
+        "gloss": "SONST REGEN",
+        "text": "sonst regnet es zeitweise ."
+    },
+    {
+        "gloss": "WETTER MORGEN SIE DIENSTAG VIERZEHN SEPTEMBER",
+        "text": "und nun die wettervorhersage für morgen dienstag den vierzehnten september ."
+    },
+    {
+        "gloss": "ABER REGION WECHSELHAFT SUEDOST WECHSELHAFT GRUND IX UNGARN IX WECHSELHAFT TIEF KOMMEN",
+        "text": "wechselhaft dagegen bleibt es auch weiter in richtung südosten schuld daran ist das tief über ungarn ."
+    },
+    {
+        "gloss": "DEUTSCH LAND MORGEN HOCH DRUCK KOMMEN WOLKE AUFLOESEN",
+        "text": "deutschland liegt morgen unter hochdruckeinfluss der die wolken weitgehend vertreibt ."
+    },
+    {
+        "gloss": "SONNTAG NAECHSTE NORDWEST WOLKE SONNE WOLKE GEWITTER REGEN DABEI",
+        "text": "am sonntag im nordwesten eine mischung aus sonne und wolken mit einigen zum teil gewittrigen schauern ."
+    },
+    {
+        "gloss": "WAHRSCHEINLICH SCHAUER GEWITTER STARK",
+        "text": "örtlich schauer oder gewitter die heftig sein können ."
+    },
+    {
+        "gloss": "MORGEN KOENNEN REGEN GEWITTER UNWETTER KOENNEN",
+        "text": "dabei kommt es zu heftigen schauern und gewittern die teilweise unwetterartig sein können ."
+    },
+    {
+        "gloss": "OST SUEDOST NACHT ANFANG NOCH REGEN HAGEL",
+        "text": "im osten und süden muss zu beginn der nacht örtlich mit starkregen und hagel gerechnet werden ."
+    },
+    {
+        "gloss": "KALT LUFT BLEIBEN BIS FREITAG MINUS",
+        "text": "die kalte luft bleibt uns erhalten wobei die temperaturen bis freitag noch weiter zurückgehen ."
+    },
+    {
+        "gloss": "NORD WIND SCHWACH UNTERSCHIED SONST MAESSIG",
+        "text": "im norden schwacher wind aus unterschiedlichen richtungen sonst weht er mäßig ."
+    },
+    {
+        "gloss": "WENN BERG UNTEN BERG FRISCH WIND",
+        "text": "in den höhenlagen süddeutschlands frischer wind ."
+    },
+    {
+        "gloss": "OBWOHL PLUS SONST REGION FROST",
+        "text": "dort auch bei leichten plusgraden aber sonst bleibt es frostig ."
+    },
+    {
+        "gloss": "BESONDERS KALT SUED SUEDOST",
+        "text": "und die kälteste ecke wird der gesamte südosten bleiben ."
+    },
+    {
+        "gloss": "LUFT KALT FEUCHT DARUM KOMMEN DEUTSCHLAND EINFLUSS",
+        "text": "kalte teilweise feuchte luft bestimmt das wetter in deutschland ."
+    },
+    {
+        "gloss": "TEIL AUCH KLAR",
+        "text": "teilweise ist es auch klar ."
+    },
+    {
+        "gloss": "SUED TATSAECHLICH UEBERWIEGEND GEWITTER",
+        "text": "im süden entladen sich später hier und da heftige gewitter ."
+    },
+    {
+        "gloss": "HEUTE NACHT DREIZEHN ZWISCHEN ACHTZEHN GRAD SCHWUEL WARM",
+        "text": "heute nacht schwül warme dreizehn bis achtzehn grad ."
+    },
+    {
+        "gloss": "REGION BESONDERS SUED BERG WARM GEWITTER",
+        "text": "besonders im südlichen bergland einzelne wärmegewitter ."
+    },
+    {
+        "gloss": "ABER REST REGION FREUNDLICH",
+        "text": "ansonsten wird es überwiegend freundlich ."
+    },
+    {
+        "gloss": "JETZT MORGEN WETTER WIE-AUSSEHEN MORGEN FUENFZEHN OKTOBER",
+        "text": "und nun die wettervorhersage für morgen donnerstag den fünfzehnten oktober ."
+    },
+    {
+        "gloss": "HEUTE NACHT PLUS VIER OST MINUS VIER REGION",
+        "text": "heute nacht plus vier grad an der ostsee bis minus vier grad in den mittelgebirgen ."
+    },
+    {
+        "gloss": "JETZT WETTER VORAUSSAGE FUER MORGEN FREITAG FUENFZEHN OKTOBER",
+        "text": "und nun die wettervorhersage für morgen freitag den fünfzehnten oktober ."
+    },
+    {
+        "gloss": "NORD SEE MEHR WOLKE NORD MEISTENS REGEN",
+        "text": "morgen früh bildet sich über der nordsee ein neues tief das von norden für kräftigen regen sorgt ."
+    },
+    {
+        "gloss": "HEUTE ABEND SUED BISSCHEN KLAR HIMMEL BISSCHEN NEBEL AUCH DABEI",
+        "text": "heute nacht ist es im süden teils klar teilweise aber auch nebel ."
+    },
+    {
+        "gloss": "NORD NORDWEST MEISTENS REGEN AUCH MOEGLICH BISSCHEN GEWITTER",
+        "text": "im verlauf kommt im norden und nordwesten teilweise kräftiger regen auf einzelne gewitter sind dabei ."
+    },
+    {
+        "gloss": "NORD DEUTSCH LAND NORD SCHON HABEN IX SUED AUCH KOMMEN",
+        "text": "die norddeutschen kennen es ja heute schon aber es wird jetzt auch die süddeutschen treffen ."
+    },
+    {
+        "gloss": "NORD REGION IX KOMMEN MEISTENS NORD DEUTSCH LAND HEUTE ABEND MEHR KOMMEN",
+        "text": "dreh und angelpunkt ist nämlich dieses tiefdruckgebiet über dem nordatlantik es schickt uns den regen letztendlich erst einmal nach norddeutschland aber dann heute nacht mehr und mehr in die mitte ."
+    },
+    {
+        "gloss": "HIER NEU TIEF NORD SCHWER STURM TEIL",
+        "text": "und es kommt ein neues tief das uns morgen abend dann erreichen wird an der nordsee zum teil mit schweren sturmböen ."
+    },
+    {
+        "gloss": "HEUTE NACHT SIEBEN MAXIMAL VIERZEHN TAG SUED ZWEI ZWANZIG GRAD REGION ZWEI ZWANZIG GRAD",
+        "text": "heute nacht sieben bis vierzehn grad am tag zweiundzwanzig grad im süden und vierzehn grad in oberfranken ."
+    },
+    {
+        "gloss": "SAMSTAG SUED FREUNDLICH NORD EINIGE SCHAUER",
+        "text": "am samstag ist es in der südhälfte freundlich in der nordhälfte einzelne schauer ."
+    },
+    {
+        "gloss": "SUEDOST MORGEN BEWOELKT VIEL SCHNEE SCHNEIEN",
+        "text": "am tag halten sich über dem südosten dichte wolken aus denen ein paar schneeflocken fallen ."
+    },
+    {
+        "gloss": "KRAEFTIG AB MORGEN FRUEH MEISTENS SCHNEE SCHNEIEN KALT REGEN",
+        "text": "vom nordmeer zieht ein kräftiges tief heran und bringt uns ab den morgenstunden heftige schneefälle zum teil auch gefrierenden regen ."
+    },
+    {
+        "gloss": "SONNE KOENNEN OST SUED BERG REGION SPAETER IX SUEDWEST",
+        "text": "am ehesten scheint sie noch hier in der osthälfte und auch am alpenrand und dann später auch im südwesten ."
+    },
+    {
+        "gloss": "AUCH REGEN KOENNEN",
+        "text": "auch ein paar schneeflocken sind dabei ."
+    },
+    {
+        "gloss": "TAG MEHR WOLKE ODER NEBEL",
+        "text": "am tag ist es meist stark bewölkt oder neblig trüb ."
+    },
+    {
+        "gloss": "SUEDOST LOCKER NACHT KOENNEN GEWITTER",
+        "text": "im osten und südosten sind zu beginn der nacht einzelne gewittrige schauer möglich ."
+    },
+    {
+        "gloss": "SKANDINAVIEN IX HOCH MEHR KOMMEN",
+        "text": "das hoch über skandinavien verlagert sich ein wenig nach osten ."
+    },
+    {
+        "gloss": "FLUSS BIS L REGION WOLKE SONST KLAR LOCKER REGION",
+        "text": "in einem streifen vom emsland bis zur lausitz sind dichte wolken unterwegs sonst ist es teils klar teils locker bewölkt ."
+    },
+    {
+        "gloss": "ABER NACHT MEHR WOLKE",
+        "text": "aber im laufe der nacht wird es zunehmend wolkiger ."
+    },
+    {
+        "gloss": "MORGEN SUEDOST WOLKE HAUPTSAECHLICH ALPEN MOEGLICH REGEN",
+        "text": "am tag ist es im südosten meist stark bewölkt vor allem an den alpen muss mit regen gerechnet werden ."
+    },
+    {
+        "gloss": "HEUTE NACHT ACHT BIS ZWEI GRAD KLAR HIMMEL MOEGLICH BODEN FROST",
+        "text": "heute nacht acht bis zwei grad wo es für längere zeit aufklart ist bodenfrost möglich ."
+    },
+    {
+        "gloss": "SUEDWEST ZUERST GUT REGION HAUPTSAECHLICH REGEN",
+        "text": "im südwesten ist es zunächst noch freundlich sonst regnet es morgen ab und an ."
+    },
+    {
+        "gloss": "JETZT WETTER MORGEN DONNERSTAG SIEBZEHN DEZEMBER",
+        "text": "und nun die wettervorhersage für morgen donnerstag den siebzehnten dezember ."
+    },
+    {
+        "gloss": "TAG AUCH SCHEINEN",
+        "text": "auch am tag viele wolken und einzelne flocken ."
+    },
+    {
+        "gloss": "IX WEST IX SCHNEE SCHEINEN MOEGLICH GLATT",
+        "text": "im norden sowie ganz im westen schneit es auch mal stärker und es kann glatt werden ."
+    },
+    {
+        "gloss": "MITTE MAL KLAR HIMMEL",
+        "text": "in der mitte lockert es auch mal auf ."
+    },
+    {
+        "gloss": "HEUTE ABEND SUED REGION NOCH REGEN GEWITTER REGION KLAR HIMMEL BISSCHEN WOLKE",
+        "text": "heute nacht gibt es im süden anfangs noch vereinzelte schauer oder gewitter sonst ist es meist klar oder nur locker bewölkt ."
+    },
+    {
+        "gloss": "NORD MITTE REGION HEUTE NACHT KLAR STERN KOENNEN SEHEN SUED REGEN",
+        "text": "im norden und in der mitte verläuft die nacht meist klar im süden regnet es gebietsweise ."
+    },
+    {
+        "gloss": "HOEHER",
+        "text": "der regen zieht im laufe der nacht richtung main ."
+    },
+    {
+        "gloss": "IN-KOMMEND REGION TIEF DRUCK ENORM LUFT BLEIBEN",
+        "text": "in den kommenden tagen bestimmt das tief über osteuropa unser wetter die kühle luft bleibt uns zunächst erhalten ."
+    },
+    {
+        "gloss": "MITTWOCH DONNERSTAG NORD WIND BLEIBEN TEIL REGEN",
+        "text": "mittwoch und donnerstag bleibt es im norden windig und gebietsweise fällt dort regen ."
+    },
+    {
+        "gloss": "VON-UNTEN NACH-NORD MEHR FREUNDLICH",
+        "text": "von süden wird es tag für tag freundlicher ."
+    },
+    {
+        "gloss": "SONNTAG NORD ALPEN IX SONNE WOLKE SCHAUER SONST REGION FREUNDLICH",
+        "text": "am sonntag im norden und an den alpen mal sonne mal wolken und ab und an schauer sonst ist es recht freundlich ."
+    },
+    {
+        "gloss": "NAECHSTE WOCHE LUFT KOMMEN MEHR KUEHL",
+        "text": "die luft die in der kommenden woche zu uns strömt ist deutlich kühler ."
+    },
+    {
+        "gloss": "DIENSTAG HAUPTSAECHLICH SONNE ABER WOLKE AUCH HABEN2 WECHSELHAFT MOEGLICH REGEN ODER GEWITTER",
+        "text": "am dienstag ist es teils freundlich teils stärker bewölkt einige regenschauer sind dabei mitunter auch gewitter ."
+    },
+    {
+        "gloss": "WETTER WIE-AUSSEHEN MORGEN MONTAG ACHTZEHN APRIL",
+        "text": "und nun die wettervorhersage für morgen montag den achtzehnten april ."
+    },
+    {
+        "gloss": "TIEF KOMMEN MILD",
+        "text": "dazu gehört ein tiefdruckgebiet mit milder luft im gepäck ."
+    },
+    {
+        "gloss": "BODEN GEFRIEREN FLUSS IX BERUHIGEN PLUS STEIGEN",
+        "text": "da ist der boden noch gefroren am rhein wie gesagt da entspannt sich die lage bei plusgraden ."
+    },
+    {
+        "gloss": "TEMPERATUR NULL GRAD KALT NORD MINUS FUENF GRAD",
+        "text": "temperaturen nur so um die null grad am kältesten im norden bis minus fünf grad ."
+    },
+    {
+        "gloss": "TAG GANZTAGS MEHR STARK WOLKE ODER NEBEL SONNE KAUM",
+        "text": "am tag ist es überwiegend stark bewölkt oder neblig trüb ."
+    },
+    {
+        "gloss": "SUED AUCH VIEL WOLKE ODER NEBEL ABER REGEN SUED KAUM",
+        "text": "auch im süden gibt es eine menge wolken oder nebel aber regen fällt dort nur selten ."
+    },
+    {
+        "gloss": "IN-KOMMEND WETTER WIE-AUSSEHEN MORGEN SAMSTAG ACHTZEHN JULI",
+        "text": "und nun die wettervorhersage für morgen samstag den achtzehnten juli ."
+    },
+    {
+        "gloss": "KOMMEN KALT LUFT SO DESHALB WETTER WECHSELHAFT",
+        "text": "in der dahinter einfließenden kaltluft gestaltet sich das wetter morgen wechselhaft ."
+    },
+    {
+        "gloss": "OST SUED HEUTE ABEND UEBERWIEGEND REGEN STARK GEWITTER",
+        "text": "in der osthälfte und im süden gibt es heute nacht kräftige regenfälle und zum teil heftige gewitter ."
+    },
+    {
+        "gloss": "DEUTSCH WETTER DIENST SAGEN WARNUNG",
+        "text": "der deutsche wetterdienst hat entsprechende unwetterwarnungen herausgegeben ."
+    },
+    {
+        "gloss": "AUCH DEUTSCH WETTER DIENST SCHON WARNUNG UNWETTER KOENNEN",
+        "text": "es gelten entsprechende unwetterwarnungen des deutschen wetterdienstes ."
+    },
+    {
+        "gloss": "KUEHL NAECHSTE BESSER SONNE KOMMEN DANN WARM",
+        "text": "auch noch verhältnismäßig kühl aber dann sieht es schon nach ein paar sonnigeren und auch deutlich wärmeren tagen aus ."
+    },
+    {
+        "gloss": "JETZT SCHOEN ABEND MITTEILEN",
+        "text": "jetzt wünsche ich ihnen noch einen schönen abend ."
+    },
+    {
+        "gloss": "A REGION WETTER BIS SUED DEUTSCHLAND KOMMEN",
+        "text": "das hoch über den azoren weitet sich bis nach süddeutschland aus ."
+    },
+    {
+        "gloss": "GUT FREUNDLICH SONNE GUT",
+        "text": "es sorgt morgen dort für ruhiges freundliches wetter ."
+    },
+    {
+        "gloss": "DONNERSTAG MITTAG FREUNDLICH NORD REGEN SUED REGEN",
+        "text": "am donnerstag ist es in der mitte am freundlichsten im norden regen oder graupelschauer im süden regnet es zeitweise ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN DIENSTAG NEUNZEHN APRIL",
+        "text": "und nun die wettervorhersage für morgen dienstag den neunzehnten april ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN SONNTAG NEUNZEHNTE DEZEMBER",
+        "text": "und nun die wettervorhersage für morgen sonntag den neunzehnten dezember ."
+    },
+    {
+        "gloss": "IX TEIL REGEN GEFRIEREN",
+        "text": "im süden fällt auch stellenweise regen der gefrieren kann ."
+    },
+    {
+        "gloss": "ZUERST SCHWACH WEHEN IX WEHEN IX WEHEN",
+        "text": "zunächst schwacher bis mäßiger wind der im norden aus östlicher sonst aus südlicher richtung kommt ."
+    },
+    {
+        "gloss": "AUCH SONNE MOEGLICH",
+        "text": "ab und zu kann sich die sonne zeigen ."
+    },
+    {
+        "gloss": "SAMSTAG NORD WIND",
+        "text": "am samstag im norden sehr windig ."
+    },
+    {
+        "gloss": "NAECHSTE WOCHE GLEICH WEITER SO",
+        "text": "auch in der neuen woche ändert sich erstmal wenig ."
+    },
+    {
+        "gloss": "BESONDERS OST DEUTSCH LAND MEHR REGEN ODER SCHNEE",
+        "text": "besonders im osten deutschlands kann es ein wenig regnen oder schneien ."
+    },
+    {
+        "gloss": "REGION SECHS GRAD REGION MINUS EINS BIS FUENF GRAD",
+        "text": "dort morgen sechs grad sonst temperaturen zwischen minus ein und plus fünf grad ."
+    },
+    {
+        "gloss": "JETZT WETTER VORAUS INFORMIEREN MORGEN MITTWOCH NEUNZEHN JANUAR",
+        "text": "und nun die wettervorhersage für morgen mittwoch den neunzehnten januar ."
+    },
+    {
+        "gloss": "SONNE SELTEN NUR WOLKE HAUPTSAECHLICH",
+        "text": "die sonne kann sich gegen die wolken nur selten durchsetzen ."
+    },
+    {
+        "gloss": "KOMMEN TIEF DRUCK DESHALB DEUTSCHLAND REGEN KUEHL REGEN",
+        "text": "unter tiefdruckeinfluss erwartet uns am sonntag recht kühles schauerwetter ."
+    },
+    {
+        "gloss": "ALPEN SUED NACHT SECHS MAXIMAL FUENFZEHN FLUSS",
+        "text": "sechs grad heute nacht am alpenrand bis fünfzehn grad an der oder ."
+    },
+    {
+        "gloss": "MORGEN REGEN KOMMEN WEST KOMMEN SPEZIELL BADEN WUERTTEMBERG BAYERN REGION",
+        "text": "morgen breiten sich diese regenwolken dann weiter über die mitte richtung westen aber vor allen dingen auch nach baden württemberg und bayern aus ."
+    },
+    {
+        "gloss": "JETZT WIE-AUSSEHEN WETTER MORGEN DONNERSTAG NEUNZEHN NOVEMBER",
+        "text": "und nun die wettervorhersage für morgen donnerstag den neunzehnten november ."
+    },
+    {
+        "gloss": "NAECHSTE ANFANG WOCHE WIE-IMMER SO",
+        "text": "auch zu beginn der kommenden woche ändert sich nur wenig ."
+    },
+    {
+        "gloss": "GUT SCHOEN ABEND MITTEILEN",
+        "text": "jetzt wünsche ich ihnen noch einen schönen abend ."
+    },
+    {
+        "gloss": "NAH TIEF LUFT DRUCK STARK UNTERSCHIED DESHALB TEIL WIND",
+        "text": "da die luftdruckunterschiede nahe des tiefzentrums groß sind wird es im küstenumfeld morgen teilweise stürmisch ."
+    },
+    {
+        "gloss": "SCHOEN ABEND poss-EUCH MACHEN GUT",
+        "text": "ich wünsche ihnen einen schönen abend und machen sie es gut ."
+    },
+    {
+        "gloss": "REGION KOMMEN STARK DANN VIEL SONNE",
+        "text": "über deutschland etabliert sich ein kräftiges hoch das uns in den nächsten tagen reichlich sonnenschein beschert ."
+    },
+    {
+        "gloss": "JETZT WIE-AUSSEHEN WETTER MORGEN FREITAG ZWANZIG NOVEMBER",
+        "text": "und nun die wettervorhersage für morgen freitag den zwanzigsten november ."
+    },
+    {
+        "gloss": "TAG WOLKE DANN REGEN NORDWEST MEER IX AUCH MEISTENS IX REGEN SCHNEE SCHNEIEN",
+        "text": "am tag dichte wolken aber auch lücken dazu einige schauer an den nordwestseiten der gebirge kann es auch längere zeit regnen oder schneien ."
+    },
+    {
+        "gloss": "ABEND AUCH EBEN MOEGLICH REGEN",
+        "text": "am abend zum teil bis in tiefere lagen ."
+    },
+    {
+        "gloss": "GRAUPEL KURZ GEWITTER",
+        "text": "auch vereinzelte graupelschauer oder kurze gewitter sind dabei ."
+    },
+    {
+        "gloss": "SUED WIND NUR SCHWACH NORD WEHEN BISSCHEN WEHEN KUESTE STARK STURM WEHEN DAS-WAR-ES",
+        "text": "dort im süden weht der wind meist nur schwach richtung norden mäßiger zeitweise auch frischer wind an den küsten starke bis stürmische böen ."
+    },
+    {
+        "gloss": "AUCH TAG VIEL SONNE SPAETER IX QUELL WOLKE",
+        "text": "auch am tag wieder viel sonnenschein später bilden sich hier und da ein paar quellwolken ."
+    },
+    {
+        "gloss": "NORD FLUSS MINUS EINS FLUSS PLUS ACHT",
+        "text": "nordöstlich der elbe morgen örtlich minus ein am oberrhein bis plus acht grad ."
+    },
+    {
+        "gloss": "KUESTE IX DREISSIG GRAD",
+        "text": "und selbst auch im küstenbereich geht es auch nahe an die dreißig grad heran ."
+    },
+    {
+        "gloss": "SO MANCHMAL ENORM SCHNELL OB SCHOEN SELBST LEUTE MUESSEN ENTSCHEIDUNG GEBEN",
+        "text": "das kann ja manchmal ganz schön schnell gehen also ob es schön ist entscheiden natürlich sie meine damen und herren ."
+    },
+    {
+        "gloss": "SCHOEN GUT ABEND poss-EUCH",
+        "text": "und damit schönen guten abend ."
+    },
+    {
+        "gloss": "BISSCHEN WARM KALT WARM KALT SO WETTER WECHSELHAFT neg-IN-KOMMEND WIE-IMMER WIE-IMMER",
+        "text": "mal ist es etwas wärmer mal etwas kälter und an dieser wetterverteilung wird sich auch in den nächsten tagen wenig ändern ."
+    },
+    {
+        "gloss": "JETZT WETTER VORAUS INFORMIEREN MORGEN DIENSTAG EINS ZWANZIG JUNI",
+        "text": "und nun die wettervorhersage für morgen dienstag den einundzwanzigsten juni ."
+    },
+    {
+        "gloss": "FLUSS MILD SECHSZEHN GRAD FLUSS NUR ACHT GRAD",
+        "text": "an der saar heute nacht milde sechzehn an der elbe teilweise nur acht grad ."
+    },
+    {
+        "gloss": "HOCH FLUSS WARM DREISSIG GRAD IX NORD FRISCH ACHTZEHN GRAD",
+        "text": "am hochrhein morgen schwül warme dreißig an der nordsee frische achtzehn grad ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN SAMSTAG EINS ZWANZIG NOVEMBER",
+        "text": "und nun die wettervorhersage für morgen samstag den einundzwanzigsten november ."
+    },
+    {
+        "gloss": "TIEF WIE-AUSSEHEN KOMMEN NORD HEUTE NACHT BISSCHEN REGEN DEUTSCH LAND",
+        "text": "ein schwacher tiefausläufer bringt dem nordwesten deutschlands heute nacht hier und da etwas regen ."
+    },
+    {
+        "gloss": "SONST HOCH DRUCK TROCKEN TEIL FREUNDLICH MORGEN",
+        "text": "ansonsten bleibt es unter hochdruckeinfluss meist trocken und tagsüber auch teilweise freundlich ."
+    },
+    {
+        "gloss": "TAL NEBEL",
+        "text": "besonders in flusstälern bildet sich nebel ."
+    },
+    {
+        "gloss": "MANCHMAL MORGEN LANG DAUER NEBEL WOLKE ABER TROCKEN",
+        "text": "der hält sich morgen in manchen regionen zäh auch dichtere wolken sind zunächst noch dabei aber es bleibt weitgehend trocken ."
+    },
+    {
+        "gloss": "NACH MITTAG MEHR FREUNDLICH",
+        "text": "am nachmittag wird es dann freundlicher ."
+    },
+    {
+        "gloss": "TEIL WIND MEHR KUEHL AUCH",
+        "text": "dabei wird es teilweise sehr windig und auch etwas kühler ."
+    },
+    {
+        "gloss": "ABER HIER SO HIER HERBST MILD",
+        "text": "aber es bleibt für die jahreszeit immer noch recht mild ."
+    },
+    {
+        "gloss": "HEUTE NACHT WAHRSCHEINLICH SCHAUER IX AUCH GEWITTER",
+        "text": "heute nacht gibt es hier und da schauer an der nordsee auch kurze gewitter ."
+    },
+    {
+        "gloss": "SUED MORGEN WOLKE TEIL SONNE",
+        "text": "in der südwesthälfte morgen teils wolken teils längere zeit sonnenschein ."
+    },
+    {
+        "gloss": "SUED REGION KOENNEN NACHT FROST BODEN",
+        "text": "in der südhälfte muss dazu mit nachtfrost gerechnet werden ."
+    },
+    {
+        "gloss": "TAG BERG SECHS GRAD IX REGION DREIZEHN GRAD REGION",
+        "text": "am tag sechs grad an den alpen und dreizehn grad am oberrhein ."
+    },
+    {
+        "gloss": "MEHR FREUNDLICH MEHR",
+        "text": "es wird deutlich freundlicher ."
+    },
+    {
+        "gloss": "HEUTE NACHT WAHRSCHEINLICH REGEN NORD",
+        "text": "heute nacht noch nicht so ganz da haben wir noch ein bisschen mit regen zu kämpfen an den küsten ."
+    },
+    {
+        "gloss": "GUT ABEND BEGRUESSEN",
+        "text": "guten abend liebe zuschauer ."
+    },
+    {
+        "gloss": "JETZT NACHT KOMMEN FROST",
+        "text": "eine frostig kalte nacht liegt vor uns ."
+    },
+    {
+        "gloss": "MORGEN NORD NEUN GRAD SUED ACHTZEHN GRAD",
+        "text": "an der küste morgen kühle neun grad im breisgau bis achtzehn grad ."
+    },
+    {
+        "gloss": "HEUTE NACHT ZWISCHEN NEUNZEHN ZWISCHEN FUENFZEHN SUEDOST MAXIMAL ZWOELF",
+        "text": "heute nacht neunzehn bis fünfzehn grad im südosten bis zwölf grad ."
+    },
+    {
+        "gloss": "NORD NACHT ANFANG ENORM SCHAUER GEWITTER DANN WOLKE VERSCHWINDEN",
+        "text": "in der nordhälfte gibt es zu beginn der nacht noch einzelne heftige schauer und gewitter dann klar dass dort teilweise auf ."
+    },
+    {
+        "gloss": "HEUTE NACHT STERN SEHEN MEISTENS NEBEL AUCH",
+        "text": "heute nacht funkeln hier und da die sterne aber meist hält sich hochnebelartige bewölkung ."
+    },
+    {
+        "gloss": "MORGEN NORD WOLKE SONNE WECHSELHAFT MOEGLICH SCHAUER GEWITTER",
+        "text": "in der osthälfte morgen mal sonne mal dichtere wolken später auch örtliche schauer oder gewitter ."
+    },
+    {
+        "gloss": "ES-BEDEUTET WIND WEHEN ABER HAUPTSAECHLICH SCHWACH MAESSIG WEHEN",
+        "text": "abgesehen von schauer und gewitterböen weht der wind schwach bis mäßig aus nordwest bis nord ."
+    },
+    {
+        "gloss": "MORGEN NORD FUENFZEHN GRAD REGION FLUSS VIER ZWANZIG GRAD MOEGLICH",
+        "text": "morgen temperaturen von fünfzehn grad an der nordsee bis vierundzwanzig am rhein ."
+    },
+    {
+        "gloss": "SONNTAG BLEIBEN SO",
+        "text": "am sonntag ändert sich noch wenig an diesem wetter ."
+    },
+    {
+        "gloss": "NORDWEST SCHAUER STURM KOMMEN",
+        "text": "im norden und im westen sowie in schauernähe stürmische böen ."
+    },
+    {
+        "gloss": "ABEND STURM BERG ORKAN MOEGLICH",
+        "text": "am abend schwere sturmböen auf den bergen auch orkanartige böen ."
+    },
+    {
+        "gloss": "HEUTE-NACHT STERN HABEN BISSCHEN FROST MOEGLICH SONST NULL BIS VIER GRAD",
+        "text": "wo es heute nacht aufklart ist leichter frost möglich sonst null bis vier grad ."
+    },
+    {
+        "gloss": "MITTWOCH DONNERSTAG WECHSELHAFT BISSCHEN REGEN SCHNEE MEHR TIEF SCHNEE HABEN",
+        "text": "mittwoch und donnerstag wechselhaft hier und da fällt etwas regen oder schnee der zunehmend auch in den niederungen möglich ist ."
+    },
+    {
+        "gloss": "SONST NUR BISSCHEN REGEN ABER REGION RECHNEN neg-HABEN",
+        "text": "sonst war es vielleicht nur mal sprühregen der aber gar nicht zu buche geschlagen ist ."
+    },
+    {
+        "gloss": "IHR SCHOEN ABEND",
+        "text": "ihnen noch einen schönen abend ."
+    },
+    {
+        "gloss": "HOCH KOMMEN DANN IN-KOMMEND EINFLUSS HIER WETTER",
+        "text": "das hoch das sich richtung osteuropa verlagert bestimmt auch in den kommenden tagen unser wetter ."
+    },
+    {
+        "gloss": "DARUNTER NEBEL LANG IN-KOMMEND DANEBEN SONNE BERG OBEN DANN DURCHGEHEND SONNE",
+        "text": "in den niederungen ist es teilweise länger neblig wenige kilometer daneben sonne auf den bergen ist es durchweg sonnig ."
+    },
+    {
+        "gloss": "WOCHENENDE HAUPTSAECHLICH SONNE HIMMEL SCHOEN MEHR WARM",
+        "text": "am wochenende scheint meist die sonne und es wird noch wärmer ."
+    },
+    {
+        "gloss": "MONTAG MOEGLICH REGEN GEWITTER MEHR WOLKE REGION ABER BLEIBEN WARM SONNE GUT",
+        "text": "die gibt es auch am montag bei insgesamt wieder mehr wolken aber es bleibt weiterhin warm und auch noch längere zeit freundlich ."
+    },
+    {
+        "gloss": "MORGEN ORT SCHAUER BESONDERS SUEDOST TATSAECHLICH GEWITTER HAUPTSAECHLICH REGEN UNWETTER MOEGLICH",
+        "text": "morgen vielerorts schauer vor allem im süden und osten noch einige gewitter mitunter regnet es kräftig auch unwetter sind weiter möglich ."
+    },
+    {
+        "gloss": "NORDOST HEUTE NACHT TROCKEN IN-KOMMEND REGEN NORDWEST REGEN",
+        "text": "im südosten ist es heute nacht trocken sonst regnet es zeitweise in der nordhälfte teilweise kräftig ."
+    },
+    {
+        "gloss": "NORD IX SCHNEE KOENNEN",
+        "text": "ganz im norden fällt hier und da schnee ."
+    },
+    {
+        "gloss": "HIER NACHT HAUPTSAECHLICH NORDWEST SCHAUER GEWITTER HEFTIG REGEN MOEGLICH",
+        "text": "in der nacht muss vor allem in der nordwesthälfte mit schauern und gewittern gerechnet werden die heftig ausfallen können ."
+    },
+    {
+        "gloss": "BIS ABEND IN-KOMMEND DANN KOMMEN NIEDERUNG",
+        "text": "und bis zum abend kann die schneefallgrenze auch bis in die niederungen sinken ."
+    },
+    {
+        "gloss": "WOCHENENDE VIEL REGEN negalp-AUCH negalp-AUCH",
+        "text": "und das wird auch am wochenende nicht passieren ."
+    },
+    {
+        "gloss": "FREITAG LANGSAM SINKEN TEMPERATUR SINKEN WEST OST REGEN",
+        "text": "am freitag geht es aber langsam abwärts im osten gewitterschauer ."
+    },
+    {
+        "gloss": "SAMSTAG SONNTAG KUEHL HERBST SO IN-KOMMEND",
+        "text": "und ab samstag sonntag kühles herbstwetter das gehört jetzt einfach dazu ."
+    },
+    {
+        "gloss": "SCHOEN ABEND TSCHUESS",
+        "text": "ich wünsche noch einen schönen abend und tschüss ."
+    },
+    {
+        "gloss": "HEUTE NACHT MEHR KLAR STERN KOENNEN SEHEN LEICHT WOLKE BESONDERS NAH FLUSS MITTE SUED REGION NEBEL QUELL WOLKE",
+        "text": "in der nacht ist es meist klar oder nur leicht bewölkt besonders in den flussniederungen in der mitte und des südens wabern wieder ein paar nebelfelder ."
+    },
+    {
+        "gloss": "AUCH SO WEITER MITTWOCH",
+        "text": "ja und so bleibt es dann auch erstmal am mittwoch ."
+    },
+    {
+        "gloss": "ABER DONNERSTAG HEISS ZURUECK SUED DARUM NORD REGEN KUEHL",
+        "text": "aber am donnerstag kommt die hitze in den süden zurück dafür haben wir kühles schauerwetter im norden ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN MONTAG VIER ZWANZIG JANUAR ZWEITAUSEND ELF",
+        "text": "und nun die wettervorhersage für morgen montag den vierundzwanzigsten januar zweitausendelf ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN FREITAG VIER ZWANZIG JULI",
+        "text": "und nun die wettervorhersage für morgen freitag den vierundzwanzigsten juli ."
+    },
+    {
+        "gloss": "HEUTE DRUCK ENORM MEER KOMMEN VERSCHWINDEN KOENNEN",
+        "text": "die schwül warme luft wird von kühlerer meeresluft verdrängt ."
+    },
+    {
+        "gloss": "DABEI STURM GEWITTER",
+        "text": "dies geht einher mit teilweise unwetterartigen gewittern ."
+    },
+    {
+        "gloss": "IN-KOMMEND TIEF AUFZIEHEN WETTER WECHSELHAFT TEMPERATUR REDUZIEREN",
+        "text": "in den folgenden tagen sorgt tiefer luftdruck für wechselhaftes wetter und sinkende temperaturen ."
+    },
+    {
+        "gloss": "IX MEER SCHWER STURM",
+        "text": "an der nordsee sowie auf den bergen schwere sturmböen ."
+    },
+    {
+        "gloss": "WOLKE DAS-IST-ES NACHT ZWEI BIS ACHT neg-HABEN FROST",
+        "text": "unter wolken heute nacht frostfreie zwei bis acht grad ."
+    },
+    {
+        "gloss": "FREITAG NAH KUESTE SUED WAHRSCHEINLICH STARK WOLKE",
+        "text": "am freitag ist es in der nähe der küsten und ganz im süden teilweise stark bewölkt ."
+    },
+    {
+        "gloss": "SONST REGION FREUNDLICH",
+        "text": "sonst ist es recht freundlich ."
+    },
+    {
+        "gloss": "SAMSTAG HAUPTSAECHLICH MEHR WOLKE SONNE WENIG IX SUEDOST REGEN KOENNEN SUEDWEST BISSCHEN SCHAUER",
+        "text": "am samstag überall mehr wolken als sonne in der südosthälfte zum teil kräftiger regen richtung nordwesten nur einzelne schauer ."
+    },
+    {
+        "gloss": "TAG REGION SONNE SUEDWEST BISSCHEN WOLKE",
+        "text": "am tag scheint verbreitet die sonne im süden und westen bilden sich später gebietsweise quellwolken ."
+    },
+    {
+        "gloss": "IX SCHLECHT BODEN FROST MOEGLICH",
+        "text": "dort sowie in ungünstigen muldenlagen ist bodenfrost möglich ."
+    },
+    {
+        "gloss": "MORGEN BIS NACH MITTAG OST SONNE",
+        "text": "und morgen vormittag beziehungsweise bis zum nachmittag wahrscheinlich sogar noch scheint in der osthälfte noch die sonne ."
+    },
+    {
+        "gloss": "DAZU WOLKE REGION KOMMEN",
+        "text": "es kommen dann ein paar wolkenfelder ."
+    },
+    {
+        "gloss": "MITTWOCH NUR REST SCHAUER GEWITTER REGION",
+        "text": "und am mittwoch dann noch reste dieser schauer und gewitter über dem osten und über dem süden ."
+    },
+    {
+        "gloss": "LIEB ZUSCHAUER GUT ABEND",
+        "text": "liebe zuschauer guten abend ."
+    },
+    {
+        "gloss": "WETTER VERAENDERN ENORM GESTERN ORKAN STURM ORKAN",
+        "text": "ein harscher wetterwechsel seit gestern sogar mit tornados ."
+    },
+    {
+        "gloss": "NAECHSTE REGEN AB DONNERSTAG WAHRSCHEINLICH",
+        "text": "der nächste größere regen für uns ist dann erst am donnerstag wahrscheinlich in sicht ."
+    },
+    {
+        "gloss": "HEUTE NACHT KUESTE REGEN SUED AUCH IX LANGSAM AUFLOESEN",
+        "text": "heute nacht gibt es an den küsten schauer im süden ebenfalls aber dort lassen sie allmählich nach ."
+    },
+    {
+        "gloss": "WEST FUENF C+M NEU SCHNEE HOCH SCHON AUTOBAHN LAHM AUTO",
+        "text": "dagegen gab es im westen fünf zentimeter neuschnee und schon stand der verkehr auf den autobahnen ."
+    },
+    {
+        "gloss": "SONNTAG VIEL WOLKE IX REGEN IX UND SCHNEE BERG KOENNEN SCHNEE",
+        "text": "am sonntag gibt es viele wolken gebietsweise regen oder schneeregen im bergland schnee ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN MONTAG FUENF ZWANZIG JANUAR",
+        "text": "und nun die wettervorhersage für morgen montag den fünfundzwanzigsten januar ."
+    },
+    {
+        "gloss": "HEUTE WIEDER IN-KOMMEND SCHNEE UEBER DREIHUNDERT METER NACH MITTAG REGEN KOMMEN BERLIN IX",
+        "text": "und es wird auch wieder schneien oberhalb von dreihundert metern meist so am nachmittag kräftig vom saarland bis nach berlin hoch ."
+    },
+    {
+        "gloss": "BISSCHEN SCHNEE IN-KOMMEND SACHSEN ODER BERG REGION BAYERN REGION MOEGLICH SCHNEE",
+        "text": "es kann noch leicht schneien in den nächsten stunden in sachsen oder auch am alpenrand und in bayern ."
+    },
+    {
+        "gloss": "SAMSTAG KALT MINUS ZEHN TEMPERATUR",
+        "text": "es bleibt noch mal kalt am samstag knackig bis höchsttemperaturen minus zehn grad ."
+    },
+    {
+        "gloss": "SONNTAG AB MEER KOMMEN BISSCHEN MEHR MILD KOMMEN",
+        "text": "am sonntag überquert und dann ein atlantischer tiefausläufer dabei wird es milder ."
+    },
+    {
+        "gloss": "DIENSTAG SUED SCHAUER TEIL AUCH GEWITTER NORD FREUNDLICH",
+        "text": "am dienstag in der südhälfte weitere schauer vereinzelt auch gewitter in der nordhälfte freundliche abschnitte ."
+    },
+    {
+        "gloss": "OST SONNE MEHR",
+        "text": "richtung osten zeigt sich die sonne häufiger ."
+    },
+    {
+        "gloss": "MITTWOCH MEISTENS NACHMITTAG SCHAUER GEWITTER",
+        "text": "am mittwoch vor allem ab dem nachmittag schauer und gewitter ."
+    },
+    {
+        "gloss": "GLEICH WETTER AUCH DONNERSTAG",
+        "text": "ähnliches wetter auch am donnerstag ."
+    },
+    {
+        "gloss": "JETZT MORGEN WETTER WIE-AUSSEHEN FREITAG FUENF ZWANZIG JUNI",
+        "text": "und nun die wettervorhersage für morgen freitag den fünfundzwanzigsten juni ."
+    },
+    {
+        "gloss": "NACHT NORD NORDOST WOLKE OST REGION MOEGLICH IX REGEN",
+        "text": "in der nacht werden die wolken im norden und nordosten dichter erste tropfen können an der ostsee fallen ."
+    },
+    {
+        "gloss": "SONST REGION WOLKE LOCKER",
+        "text": "sonst meist nur lockere wolken ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN DIENSTAG FUENF ZWANZIG MAI",
+        "text": "und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten mai ."
+    },
+    {
+        "gloss": "SCHOEN ABEND poss-EUCH",
+        "text": "und damit schönen guten abend meine damen und herren ."
+    },
+    {
+        "gloss": "FLUSS A SUED SONNE STRAHLEN AUCH SUED",
+        "text": "etwa südlich von spree und aller scheint dagegen die sonne strahlend und das tut sie morgen auch in süddeutschland ."
+    },
+    {
+        "gloss": "DEUTSCH LAND MORGEN HOCH DRUCK KOMMEN SONNE TROCKEN",
+        "text": "über deutschland liegt morgen ein hochdruckgebiet das uns verbreitet sonniges und trockenes wetter beschert ."
+    },
+    {
+        "gloss": "REGION IX KUEHL FUENFZEHN SECHSZEHN DREI ZWANZIG BIS SECHS ZWANZIG GRAD",
+        "text": "in küstennähe morgen kühle fünfzehn bis sechzehn entlang des rheins dreiundzwanzig bis sechsundzwanzig grad ."
+    },
+    {
+        "gloss": "SCHOTTLAND REGION UND SUED EUROPA SUED REGION DAZWISCHEN MORGEN LUFT MILD KOMMEN",
+        "text": "zwischen dem tief bei schottland und dem hoch über südeuropa strömt morgen milde luft zu uns nach deutschland ."
+    },
+    {
+        "gloss": "IX ENORM WARM IN-KOMMEND",
+        "text": "mancherorts werden damit die höchsten temperaturen der woche erwartet ."
+    },
+    {
+        "gloss": "ABER BISSCHEN KUEHL REDUZIEREN",
+        "text": "danach wird es nur etwas kühler ."
+    },
+    {
+        "gloss": "HEUTE NACHT BESONDERS NORD TAG NORDWEST WIND",
+        "text": "mit stürmischen böen muss heute nacht vor allem im norden am tag im nordwesten gerechnet werden ."
+    },
+    {
+        "gloss": "NORD AUCH SCHWER WIND",
+        "text": "an der nordsee schwere sturmböen ."
+    },
+    {
+        "gloss": "BERG ORKAN MOEGLICH",
+        "text": "auf den bergen sind orkanartige böen möglich ."
+    },
+    {
+        "gloss": "HEUTE NACHT NORD REGION ELF GRAD ALPEN EINS GRAD",
+        "text": "heute nacht elf grad im norden und ein grad an den alpen ."
+    },
+    {
+        "gloss": "NACHMITTAG MITTE REGION ZEHN GRAD SUED SECHSZEHN GRAD",
+        "text": "am tag zehn grad in der mitte in höheren lagen sechzehn grad im süden ."
+    },
+    {
+        "gloss": "DONNERSTAG BESONDERS NORDWEST REGEN STURM KOENNEN",
+        "text": "am donnerstag vor allem in der nordwesthälfte hier und da sturmböen ."
+    },
+    {
+        "gloss": "IX AUCH GEWITTER",
+        "text": "an der nordsee auch gewitter ."
+    },
+    {
+        "gloss": "SUEDOST SONNE DABEI",
+        "text": "im süden und osten freundliche abschnitte ."
+    },
+    {
+        "gloss": "AEHNLICH WIE HEUTE SECHS ZWISCHEN ELF GRAD",
+        "text": "ganz ähnliche temperaturen wie heute zwischen sechs und elf grad ."
+    },
+    {
+        "gloss": "SONNTAG MEHR WIND NORDWEST WOLKE BISSCHEN REGEN",
+        "text": "am sonntag legt der wind noch zu dazu von nordwesten wolken und etwas regen ."
+    },
+    {
+        "gloss": "MONTAG MEISTENS TROCKEN SONNE WOLKE MISCHUNG",
+        "text": "am montag meist trocken bei einer mischung aus sonne und wolken ."
+    },
+    {
+        "gloss": "WIND ZEIGEN-BILDSCHIRM SCHWACH MAESSIG",
+        "text": "der wind aus süd bis west weht schwach bis mäßig ."
+    },
+    {
+        "gloss": "NORD WIND KOENNEN",
+        "text": "dort kann es auch stürmische böen geben ."
+    },
+    {
+        "gloss": "MORGEN OST ZEHN BIS DREIZEHN WEST BIS SIEBZEHN GRAD",
+        "text": "morgen in der osthälfte zehn bis dreizehn grad im westen bis zu siebzehn grad ."
+    },
+    {
+        "gloss": "OST SUED BISSCHEN SCHAUER BIS ZWISCHEN-MITTE SCHNEE TEIL NEBEL WOLKE ODER SONNE",
+        "text": "im osten und süden am dienstag einzelne schauer dabei bis in mittlere lagen schnee sonst teils nebel teils wolken oder sonne ."
+    },
+    {
+        "gloss": "MITTWOCH KOMMEN REGEN REGION",
+        "text": "am mittwoch zieht von der nordsee regen heran der sich am donnerstag ausbreitet ."
+    },
+    {
+        "gloss": "KOMMEN MISCHUNG NEBEL WOLKE SONNE",
+        "text": "richtung südosten noch eine mischung aus nebel wolken und sonne ."
+    },
+    {
+        "gloss": "HIER AUCH ICH HIER SCHAU-MAL ZEIGEN-BILDSCHIRM",
+        "text": "und wir nehmen auch kontakt auf zu diesem hoch ."
+    },
+    {
+        "gloss": "ABER SAMSTAG SONNTAG",
+        "text": "allerdings erst am wochenende ."
+    },
+    {
+        "gloss": "IN-KOMMEND HIER NACHT BAYERN HIER WALD BISSCHEN REGEN",
+        "text": "in dieser nacht fällt noch etwas regen im bayerischen wald ."
+    },
+    {
+        "gloss": "SONST HIMMEL SEHEN STERN NEBEL",
+        "text": "sonst aber funkeln oft die sterne oder es bildet sich nebel ."
+    },
+    {
+        "gloss": "TEMPERATUR DREIZEHN ZWISCHEN FUENF GRAD",
+        "text": "die temperaturen sinken auf werte zwischen dreizehn und fünf grad ."
+    },
+    {
+        "gloss": "MORGEN IX SIEBZEHN GRAD",
+        "text": "morgen erwarten uns dann an der küste werte von siebzehn grad ."
+    },
+    {
+        "gloss": "NEU WOCHE WECHSELHAFT",
+        "text": "die neue woche startet dann durchwachsener ."
+    },
+    {
+        "gloss": "SCHOEN ABEND MITTEILEN",
+        "text": "das war es für heute schönen abend noch ."
+    },
+    {
+        "gloss": "MUESSEN AUSHALTEN REGEN GEWITTER BESONDERS SUEDOST STURM STARK KOENNEN",
+        "text": "aber erst muss noch mit regenfällen und gewittern gerechnet werden die besonders im süden und osten unwetterartig sein können ."
+    },
+    {
+        "gloss": "DEUTSCH WETTER DIENST SCHON WARNUNG EINIGE GEWESEN",
+        "text": "der deutsche wetterdienst hat entsprechende warnungen herausgegeben ."
+    },
+    {
+        "gloss": "HEUTE ABEND TEMPERATUR ZEHN REGION BIS ACHTZEHN REGION",
+        "text": "heute nacht temperaturen von zehn grad in der eifel bis achtzehn in der lausitz ."
+    },
+    {
+        "gloss": "GRUND HOCH TIEF WIEDER UND SUED REGION LUFT FEUCHT WARM SUED REGION SONNE",
+        "text": "denn im süden haben wir die schwül warme gewitterluft dabei ist es aber noch im süden sonnig ."
+    },
+    {
+        "gloss": "ABEND GEWITTER KOENNEN",
+        "text": "dort kommen erst abends die gewitter an ."
+    },
+    {
+        "gloss": "WEST KOMMEN TIEF ENORM REGEN GEWITTER",
+        "text": "von westen erreicht uns ein neues atlantiktief mit zum teil kräftigen regenfällen und heftigen gewittern ."
+    },
+    {
+        "gloss": "SUED REGION MORGEN SOLL HOCH DRUCK NOCH GUT WARM",
+        "text": "im süden bleibt es morgen unter hochdruckeinfluss zunächst noch recht freundlich und warm ."
+    },
+    {
+        "gloss": "HEUTE NACHT WEST KOMMEN REGEN KOENNEN",
+        "text": "heute nacht breitet sich von westen regen aus der teilweise ergiebig sein kann ."
+    },
+    {
+        "gloss": "MORGEN IX DREISSIG GRAD NORD REGION SECHSZEHN GRAD",
+        "text": "dort morgen sommerlich heiße dreißig grad im emsland kühle sechzehn grad ."
+    },
+    {
+        "gloss": "U IX MORGEN DREI FLUSS BIS DREI GRAD",
+        "text": "am tag drei grad auf usedom bis zwölf grad im emsland ."
+    },
+    {
+        "gloss": "TAG OST VIEL SONNE WEST REGEN FLUSS REGION",
+        "text": "am tag im osten viel sonne in der westhälfte regnet es zwischen niederrhein und ostfriesland ."
+    },
+    {
+        "gloss": "FREITAG RUHIG WETTER BESONDERS NORD FREUNDLICH GLEICH SAMSTAG AUCH NUR NORD BISSCHEN SCHNEE SCHNEIEN UND NIESELREGEN FROST",
+        "text": "am freitag ruhiges trockenes wetter vor allem im norden ist es recht freundlich ähnliches wetter am samstag nur im norden vereinzelt etwas schnee oder gefrierender sprühregen ."
+    },
+    {
+        "gloss": "JETZT WIE-AUSSEHEN WETTER MORGEN SAMSTAG SECHS ZWANZIG JANUAR",
+        "text": "und nun die wettervorhersage für morgen samstag den sechsundzwanzigsten januar ."
+    },
+    {
+        "gloss": "KOMMEN KRAEFTIG WAS WOCHENENDE VIEL SONNE TEMPERATUR STEIGEN",
+        "text": "das hoch gewinnt wieder an kraft und beschert uns am wochenende viel sonnenschein bei meist sommerlichen temperaturen ."
+    },
+    {
+        "gloss": "AUCH ABEND ZWISCHEN NACHT IM-VERLAUF DANN REGEN REGION REGEN VERSCHWINDEN",
+        "text": "das gilt auch für den abend aber im laufe der nacht werden schauer und gewitter in der südosthälfte immer seltener ."
+    },
+    {
+        "gloss": "DANN REGION WOLKE KLAR IX NEBEL",
+        "text": "ansonsten ist es meist nur locker bewölkt oder klar stellenweise bildet sich nebel ."
+    },
+    {
+        "gloss": "MORGEN REGION SONNE IX WOLKE BEWOELKT",
+        "text": "morgen scheint verbreitet die sonne hier und da tauchen auch mal ein paar dichtere wolken auf ."
+    },
+    {
+        "gloss": "SUED REGION BESONDERS BAYERN WALD BIS ALPEN DANN REGEN NACH MITTAG KOENNEN",
+        "text": "und im süden besonders vom bayerischen wald bis zu den alpen gibt es am nachmittag einzelne schauer und gewitter ."
+    },
+    {
+        "gloss": "MONTAG FAST UEBERALL SONNE MEER BERG IX MEHR WOLKE ABER NUR BISSCHEN ORT REGEN",
+        "text": "am montag scheint verbreitet die sonne richtung küsten und alpen ist es wolkiger aber es regnet nur vereinzelt ."
+    },
+    {
+        "gloss": "JETZT MORGEN WETTER WIE-AUSSEHEN DONNERSTAG SECHS ZWANZIG NOVEMBER",
+        "text": "und nun die wettervorhersage für morgen donnerstag den sechsundzwanzigsten november ."
+    },
+    {
+        "gloss": "REGION KOMMEN BISSCHEN LUFT neg-HABEN MILD",
+        "text": "vom atlantik strömt etwas weniger milde luft zu uns ."
+    },
+    {
+        "gloss": "FREITAG REGEN WECHSELHAFT",
+        "text": "am freitag wechselhaftes schauerwetter ."
+    },
+    {
+        "gloss": "NORDWEST KOENNEN GEWITTER",
+        "text": "im nordwesten sind kurze gewitter möglich ."
+    },
+    {
+        "gloss": "HEUTE NACHT BESONDERS REGION BADEN W BIS SACHSEN IX SONST REGION IX SCHNEE SCHNEIEN SCHAUER",
+        "text": "heute nacht vor allem in einem streifen von baden württemberg bis nach sachsen stellenweise schneeschauer ."
+    },
+    {
+        "gloss": "VORSICHT poss-SEIN ACHTUNG STRASSE GLATT",
+        "text": "vorsicht wegen straßenglätte ."
+    },
+    {
+        "gloss": "ZEHN ELF ZWISCHEN SONST REGION ZWEI ZWISCHEN NEUN",
+        "text": "dort sowie am niederrhein morgen zehn bis elf sonst zwei bis neun grad ."
+    },
+    {
+        "gloss": "SUED SONNTAG OFT SONNE SONST REGION VIEL WOLKE ORT REGEN",
+        "text": "am sonntag im süden nach nebelauflösung häufig sonnig sonst viele wolken und stellenweise etwas regen ."
+    },
+    {
+        "gloss": "DANN NEU WOLKE KOMMEN STROEMEN NACH MITTAG KOENNEN REGEN SCHON WIND KOMMEN",
+        "text": "und dann drängen die neuen wolken heran hier im nordwesten die können am nachmittag erste spritzer regen an der nordsee bringen und der wind frischt dazu auf aus süd südwest ."
+    },
+    {
+        "gloss": "REGEN SCHNEE REGION VERSCHWINDEN NORD REGEN KOENNEN REGION STERN KOENNEN SEHEN",
+        "text": "regen und schnee lassen an den alpen in der nacht nach im norden und nordosten fallen hier und da schauer sonst ist das klar ."
+    },
+    {
+        "gloss": "DONNERSTAG NORDWEST REGEN REGION SONNE WOLKE WECHSELHAFT DANN FREITAG AEHNLICH WETTER",
+        "text": "am donnerstag regen in der nordhälfte in der südhälfte mal sonne mal wolken ähnliches wetter dann auch am freitag ."
+    },
+    {
+        "gloss": "MONTAG HEFTIG REGEN NORDOST REGEN AUCH DAZU WIND REGION",
+        "text": "am montag regnet es vor allem im norden und osten weiter und besonders im osten wird es windig etwas sonne am ehesten im süden ."
+    },
+    {
+        "gloss": "NORD REGEN NACHT VERSCHWINDEN ALPEN REGEN KOENNEN IX NEBEL",
+        "text": "die schauer und gewitter im norden klingen in der nacht ab an den alpen fallen noch ein paar regentropfen stellenweise bildet sich nebel ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN DONNERSTAG SIEBEN ZWANZIG AUGUST",
+        "text": "und nun die wettervorhersage für morgen donnerstag den siebenundzwanzigsten august ."
+    },
+    {
+        "gloss": "SAMSTAG KUEHL WENIGER NORD STARK WIND",
+        "text": "am samstag wird es deutlich kühler und im norden sehr windig ."
+    },
+    {
+        "gloss": "AB SONNTAG TEMPERATUR STEIGEN SONNE LANG",
+        "text": "ab sonntag steigen dann temperaturen und sonnenscheindauer wieder ."
+    },
+    {
+        "gloss": "IM-VERLAUF BLEIBEN KALT ENORM SCHNEE KOENNEN",
+        "text": "in den nächsten tagen geht es auf jeden fall winterlich weiter immer wieder mal mit etwas schnee ."
+    },
+    {
+        "gloss": "WOCHENENDE IX MEHR KALT",
+        "text": "und zum wochenende wird es dann sogar wieder ein bisschen kälter ."
+    },
+    {
+        "gloss": "HEUTE WETTER MORGEN MITTWOCH SIEBEN ZWANZIG JANUAR",
+        "text": "und nun die wettervorhersage für morgen mittwoch den siebenundzwanzigsten januar ."
+    },
+    {
+        "gloss": "MITTWOCH NORDWEST KOMMEN REGEN SCHAUER TEIL GEWITTER",
+        "text": "am mittwoch breiten sich von nordwesten neue wolken mit regen oder schauern aus örtlich sind auch gewitter dabei ."
+    },
+    {
+        "gloss": "EIN-PAAR-TAGE BLEIBEN SO WECHSELHAFT",
+        "text": "auch in den folgenden tagen ändert sich an diesem wechselhaften wetter wenig ."
+    },
+    {
+        "gloss": "SOMMER TEMPERATUR SELTEN",
+        "text": "sommerliche temperaturen sind dabei eher die ausnahme ."
+    },
+    {
+        "gloss": "REGION TAGSUEBER DANN WOLKE DANN SUEDWEST GEWITTER KOENNEN",
+        "text": "vor allem über dem bergland können sich im tagesverlauf stellenweise quellwolken bilden und im südwesten muss mit vereinzelten hitzegewittern gerechnet werden ."
+    },
+    {
+        "gloss": "WIND SCHWACH",
+        "text": "meist weht der wind schwach aus westlichen richtungen ."
+    },
+    {
+        "gloss": "LIEB ZUSCHAUER GUT ABEND",
+        "text": "liebe zuschauer guten abend ."
+    },
+    {
+        "gloss": "HEUTE NACHT UEBERWIEGEND REGION ORT REGEN",
+        "text": "heute nacht ist es meist stark bewölkt örtlich regnet oder nieselt es etwas ."
+    },
+    {
+        "gloss": "NORDOST MEHR WOLKE REGEN",
+        "text": "richtung nordosten gibt es mehr wolken hier und da etwas regen ."
+    },
+    {
+        "gloss": "FREITAG WENN NEBEN AUFLOESEN SONNE",
+        "text": "am freitag scheint abseits der nebelgebiete häufig die sonne ."
+    },
+    {
+        "gloss": "SUED BISSCHEN SCHAUER MOEGLICH",
+        "text": "ganz im süden sind einzelne schauer möglich ."
+    },
+    {
+        "gloss": "WENN NEBEL TAG AUFLOESEN SONNE",
+        "text": "sobald sich der nebel am tag lichtet scheint die sonne ."
+    },
+    {
+        "gloss": "SUED REGION REGEN IX BISSCHEN WOLKE",
+        "text": "ganz im süden kann es einzelne schauer geben an den küsten ziehen gelegentlich wolken durch ."
+    },
+    {
+        "gloss": "NORD WIND SCHWACH MAESSIG IX WEHEN SONST REGION VERSCHIEDEN WEHEN",
+        "text": "im norden weht der wind schwach bis mäßig aus west bis südwest sonst schwacher wind aus unterschiedlichen richtungen ."
+    },
+    {
+        "gloss": "SCHON MORGEN DREISSIG GRAD SUED FRANKREICH AUCH WARM HIER DEUTSCH LAND SCHON SUEDWEST FUENF ZWANZIG GRAD",
+        "text": "da haben wir morgen schon die dreißig grad morgen im süden von frankreich auch und für uns wahrscheinlich schon im südwesten die fünfundzwanzig grad ."
+    },
+    {
+        "gloss": "DONNERSTAG MEHR SCHOEN MEHR WARM",
+        "text": "ja der donnerstag wird fast noch schöner noch ein bisschen wärmer ."
+    },
+    {
+        "gloss": "NACH MITTAG ABEND BISSCHEN REGEN NORD WEST",
+        "text": "gegen späten nachmittag oder abend gibt es wahrscheinlich die ersten regenschauer im nordwesten ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN FREITAG ACHT ZWANZIG AUGUST",
+        "text": "und nun die wettervorhersage für morgen freitag den achtundzwanzigsten august ."
+    },
+    {
+        "gloss": "SCHOTTLAND WOLKE TIEF NORWEGEN",
+        "text": "von schottland zieht ein tief nach norwegen ."
+    },
+    {
+        "gloss": "WOLKE NAEHERN DEUTSCH LAND KUEHL KOMMEN",
+        "text": "seine kaltfront erreicht morgen auch deutschland inklusive wolken ."
+    },
+    {
+        "gloss": "SONNTAG MONTAG BLEIBEN SO MEHR KUEHL AUCH WECHSELHAFT",
+        "text": "sonntag und montag ändert sich an diesem ungemütlichen und recht kühlen wetter noch wenig ."
+    },
+    {
+        "gloss": "MORGEN TEMPERATUR ZWEI ZWANZIG GRAD NORD SEE IX ZWEI DREISSIG GRAD FLUSS",
+        "text": "morgen reichen die temperaturen von zweiundzwanzig grad an der ostsee bis zweiunddreißig grad am oberrhein ."
+    },
+    {
+        "gloss": "NAECHSTE SONNTAG WIEDER SCHLECHTER WECHSELHAFT",
+        "text": "ab sonntag geht es dann wieder abwärts es wird wechselhafter ."
+    },
+    {
+        "gloss": "SONNTAG WECHSELHAFT TEIL UEBERWIEGEND REGEN AUCH DABEI GEWITTER",
+        "text": "am sonntag überall unbeständiges wetter teilweise kräftige regenfälle teilweise auch gewitter ."
+    },
+    {
+        "gloss": "MORGEN NORDOST FUENFZEHN GRAD FLUSS DREI ZWANZIG GRAD",
+        "text": "an der nordsee morgen fünfzehn am hochrhein immerhin bis dreiundzwanzig grad ."
+    },
+    {
+        "gloss": "MONTAG WOLKE MAL REGEN",
+        "text": "am montag ist es meist stark bewölkt hier und da regnet es ."
+    },
+    {
+        "gloss": "MEER SCHNEE SCHNEIEN DANN ALPEN REGEN SCHNEE SCHNEIEN",
+        "text": "im bergland zum teil schnee an den alpen auch für längere zeit regen oder schnee ."
+    },
+    {
+        "gloss": "DIENSTAG WECHSELHAFT",
+        "text": "am dienstag wechselhaftes wetter ."
+    },
+    {
+        "gloss": "JETZT INFORMIEREN WETTER MORGEN MONTAG ACHT ZWANZIG NOVEMBER",
+        "text": "und nun die wettervorhersage für morgen montag den achtundzwanzigsten november ."
+    },
+    {
+        "gloss": "MORGEN SUED DAUER NEBEL NUR ZWEI MAXIMAL ELF",
+        "text": "morgen bei dauernebel im süden nur zwei am niederrhein bis elf grad ."
+    },
+    {
+        "gloss": "WIND MAESSIG IX STARK IX WEHEN",
+        "text": "es bläst ein mäßiger im norden mitunter frischer an der küste auch starker wind aus südwest bis west ."
+    },
+    {
+        "gloss": "IX AUCH STURM",
+        "text": "im norden sind auch stürmische böen möglich ."
+    },
+    {
+        "gloss": "IX MORGEN ZWEI ZWANZIG GRAD",
+        "text": "dort morgen bis zweiundzwanzig grad ."
+    },
+    {
+        "gloss": "NORD NUR SECHSZEHN GRAD",
+        "text": "an der nordsee nur kühle sechzehn grad ."
+    },
+    {
+        "gloss": "SONNTAG NORD WOLKE IX SCHAUER",
+        "text": "am sonntag im norden noch wolkig und vor allem in küstennähe einzelne schauer ."
+    },
+    {
+        "gloss": "SONST REGION VIEL SONNE",
+        "text": "sonst viel sonnenschein ."
+    },
+    {
+        "gloss": "DIENSTAG ABEND IX WOLKE SCHAUER GEWITTER",
+        "text": "am dienstag ziehen dann gegen abend von westen wieder zum teil kräftige schauer und gewitter heran ."
+    },
+    {
+        "gloss": "IX NACHMITTAG KOMMEN REGEN VIERHUNDERT ACHTHUNDERT METER UEBER SCHNEE",
+        "text": "sonst einzelne schauer an der nordsee auch gewitter ."
+    },
+    {
+        "gloss": "TEMPERATUR WIE-IMMER",
+        "text": "an den temperaturen ändert sich wenig ."
+    },
+    {
+        "gloss": "GUT ABEND LIEB DU ZUSCHAUER",
+        "text": "guten abend liebe zuschauer ."
+    },
+    {
+        "gloss": "EIN-PAAR STUNDE NOCH FUENF ZENTIMETER HOEHE SCHNEE",
+        "text": "in den nächsten stunden können noch bis zu fünf zentimeter schnee fallen ."
+    },
+    {
+        "gloss": "WEST REGEN KOMMEN OST REGION ANFANG SCHNEE MITTE BERG AUCH",
+        "text": "ja der regen im westen zieht weiter in dieser nacht er wird den osten erreichen wie gesagt anfangs mit schnee auch in den mittelgebirgen ."
+    },
+    {
+        "gloss": "WIND HEUTE NACHT WEHEN NORD STURM KOENNEN STURM BERG STURM ORKAN",
+        "text": "der wind lebt bereits in der nacht auf im norden sturmböen sonst einzelne stürmische böen auf den bergen können orkanböen auftreten ."
+    },
+    {
+        "gloss": "MORGEN TATSAECHLICH REGEN GEWITTER KOENNEN",
+        "text": "morgen muss verbreitet mit teilweise kräftigen schauern und gewittern gerechnet werden ."
+    },
+    {
+        "gloss": "SAMSTAG MEHR FREUNDLICH TROCKEN MEHR WARM",
+        "text": "am samstag überwiegend freundlich meist trocken und wärmer ."
+    },
+    {
+        "gloss": "SONNTAG REGION REGEN GEWITTER KOMMEN",
+        "text": "am sonntag ziehen von nordwesten wieder schauer und gewitter heran ."
+    },
+    {
+        "gloss": "SUED WOLKE KOMMEN BISSCHEN REGEN KOENNEN REGION KLAR LOCKER WOLKE",
+        "text": "im süden gibt es zu beginn der nacht noch wolken die hier und da auch noch ein paar tropfen fallen lassen sonst ist es meist klar oder nur locker bewölkt ."
+    },
+    {
+        "gloss": "NORDWEST ZONE NEBEL",
+        "text": "vor allem im nordwesten sowie in bayern bildet sich nebel ."
+    },
+    {
+        "gloss": "ZONE AUFLOESEN MORGEN MEISTENS SONNE",
+        "text": "nach dessen auflösung scheint morgen verbreitet die sonne ."
+    },
+    {
+        "gloss": "HEUTE NACHT ELF GRAD SUED BAYERN EINS GRAD NORD",
+        "text": "heute nacht elf grad in niederbayern und bis ein grad in den nördlichen mittelgebirgen ."
+    },
+    {
+        "gloss": "NORD TATSAECHLICH WOLKE MORGEN BISSCHEN REGEN",
+        "text": "im norden und nordosten deutschlands bleibt es morgen meist noch wolkenverhangen mit etwas regen ."
+    },
+    {
+        "gloss": "HEUTE NACHT NORD NORDOST IX REGEN",
+        "text": "heute nacht gibt es im norden und nordosten viele wolken örtlich regnet oder nieselt es etwas ."
+    },
+    {
+        "gloss": "MORGEN UEBERWIEGEND BEWOELKT NEBEL AUCH SUED IX SONNE",
+        "text": "morgen gibt es zum teil dichte wolken oder nebel aber auch sonne vor allem im süden ."
+    },
+    {
+        "gloss": "NORDOST BEWOELKT IX REGEN",
+        "text": "im norden und nordosten bleibt es meist bedeckt mitunter fällt dort etwas regen ."
+    },
+    {
+        "gloss": "REGION SICHER GEFRIEREN LAGE",
+        "text": "im süden werte nahe dem gefrierpunkt ."
+    },
+    {
+        "gloss": "MORGEN NORD ACHT SUEDWEST SIEBZEHN MAXIMAL",
+        "text": "morgen temperaturen von acht grad im nordosten bis siebzehn im südwesten ."
+    },
+    {
+        "gloss": "WIE-AUSSEHEN IN-KOMMEND",
+        "text": "die aussichten ."
+    },
+    {
+        "gloss": "MITTWOCH NORD REGEN SUED MEHR FREUNDLICH",
+        "text": "am mittwoch in der nordhälfte regenschauer richtung süden ist es freundlicher ."
+    },
+    {
+        "gloss": "HALLO GUT ABEND",
+        "text": "hallo und guten abend ."
+    },
+    {
+        "gloss": "BISHER TAG LETZTE DEUTSCHLAND SCHLECHT VIEL REGEN DARUM FLUSS OST AUCH HOCHWASSER MESSEN VORSICHT",
+        "text": "regenreiche tage bei uns in deutschland und dadurch auch die lage an einigen flüssen im osten immer noch angespannt ."
+    },
+    {
+        "gloss": "FLUSS UNGEFAEHR FUENFZEHN IX SIEBZEHN GRAD",
+        "text": "am rhein werden es dann wenigstens mal so fünfzehn bis maximal siebzehn grad ."
+    },
+    {
+        "gloss": "NOCH SONNE VOR MITTAG NOCH",
+        "text": "und das wetter bringt dort auch noch sonnenschein am vormittag zumindest ."
+    },
+    {
+        "gloss": "DANN IM-VERLAUF NACH MITTAG BAYERN REGION GEWITTER",
+        "text": "nachmittags bilden sich hier in bayern kräftige gewitter ."
+    },
+    {
+        "gloss": "HEUTE NACHT SELTEN TATSAECHLICH KOMMEN KUESTE",
+        "text": "die werden heute aber erstmal seltener und ziehen sich richtung küste zurück ."
+    },
+    {
+        "gloss": "SUED WAHRSCHEINLICH WOLKE KLAR",
+        "text": "in der südhälfte ist es teils wolkig teils klar ."
+    },
+    {
+        "gloss": "MORGEN FRUEH IX MOEGLICH NEBEL",
+        "text": "in den frühstunden kann sich vereinzelt nebel bilden ."
+    },
+    {
+        "gloss": "HEUTE NACHT NORD MEISTENS WOLKE BESONDERS REGION IX U IX SCHAUER",
+        "text": "heute nacht gibt es im norden dichte wolken besonders nördlich einer linie emsland uckermark schauert es ."
+    },
+    {
+        "gloss": "SAMSTAG MEISTENS FREUNDLICH REGION TROCKEN",
+        "text": "am samstag meist freundlich und überwiegend trocken ."
+    },
+    {
+        "gloss": "BEWOELKT SCHAUER NUR NORDWEST",
+        "text": "dichte wolken und gebietsweise schauer gibt es nur im nordwesten ."
+    },
+    {
+        "gloss": "NORDOST BLEIBEN TROCKEN",
+        "text": "im nordosten bleibt es meist trocken ."
+    },
+    {
+        "gloss": "REGEN GEWITTER MITBRINGEN",
+        "text": "sie bringen kräftige schauer und gewitter ."
+    },
+    {
+        "gloss": "IN-KOMMEND DANN NAEHERN KALT",
+        "text": "die luft die in den kommenden tagen zu uns strömt ist dann kälter ."
+    },
+    {
+        "gloss": "WECHSELHAFT",
+        "text": "wechselhaft bleibt es ."
+    },
+    {
+        "gloss": "JETZT MORGEN WIE-AUSSEHEN WETTER MITTWOCH DREISSIG MAERZ",
+        "text": "und nun die wettervorhersage für morgen mittwoch den dreißigsten märz ."
+    },
+    {
+        "gloss": "BODEN SEE MOEGLICH FLACH AUCH SCHNEE",
+        "text": "richtung bodensee kann es bis ins flachland schneien ."
+    },
+    {
+        "gloss": "SUEDOST REGION NORD SEE NOCH TROCKEN",
+        "text": "im äußersten südosten sowie zwischen nordsee und mosel ist es meist trocken ."
+    },
+    {
+        "gloss": "MISCHUNG NEBEL AUFLOESEN DANN WOLKE SONNE",
+        "text": "und so erwartet uns eine mischung aus teilweise zähen nebelfeldern wolken und sonnenschein ."
+    },
+    {
+        "gloss": "MONTAG ANFANG WECHSELHAFT MEHR KUEHL",
+        "text": "die neue woche beginnt wechselhaft und kühler ."
+    },
+    {
+        "gloss": "SAMSTAG SONNTAG GLEICH IX",
+        "text": "samstag und sonntag ändert sich an diesem wetter noch wenig ."
+    },
+    {
+        "gloss": "SUED WIND SCHWACH MAESSIG WEHEN FRISCH STARK BOEE",
+        "text": "in der südhälfte weht der wind schwach sonst schwach bis mäßig richtung küsten frisch und stark böig ."
+    },
+    {
+        "gloss": "MORGEN KUESTE REGION ZEHN GRAD BAYERN REGION ZWEI GRAD",
+        "text": "am tag zehn grad an der nordfriesischen küste zwanzig grad in niederbayern ."
+    },
+    {
+        "gloss": "NORD BISSCHEN REGEN SCHNEE HAGEL",
+        "text": "am tag in der nordhälfte etwas regen schnee oder gefrierender regen ."
+    },
+    {
+        "gloss": "AUCH SAMSTAG REGEN SCHNEE SCHNEIEN IM-VERLAUF WEST NORDWEST MEHR FREUNDLICH",
+        "text": "auch am samstag regnet oder schneit es verbreitet später wird es im westen und norden freundlicher ."
+    },
+    {
+        "gloss": "WIND WEHEN SCHWACH MAESSIG WEHEN KOENNEN STARK",
+        "text": "der nordwestwind bläst schwach bis mäßig in der nordosthälfte auch frisch in den hochlagen der östlichen mittelgebirge stark böig ."
+    },
+    {
+        "gloss": "WEST REGION REGEN BERG SCHNEE SCHAUER DABEI",
+        "text": "in der westhälfte geht der regen in schauer über in den bergen schneeschauer ."
+    },
+    {
+        "gloss": "JETZT WETTER WIE-AUSSEHEN MORGEN DONNERSTAG EINS DREISSIG MAERZ",
+        "text": "und nun die wettervorhersage für morgen donnerstag den einunddreißigsten märz ."
+    },
+    {
+        "gloss": "NORDWEST HAUPTSAECHLICH TROCKEN MANCHMAL WOLKE SONNE TEIL NEBEL",
+        "text": "im westen und nordwesten weitgehend trocken hier und da wolkenlücken örtlich bildet sich nebel ."
+    },
+    {
+        "gloss": "MORGEN SUEDOST TEIL REGEN MOEGLICH SCHNEE",
+        "text": "morgen in der südosthälfte weitere zum teil kräftige niederschläge bis in mittlere lagen schnee ."
+    },
+    {
+        "gloss": "NORD MEHR GUT MANCHMAL WOLKE TROCKEN",
+        "text": "in der nordwesthälfte teils freundlich teils wolkig und meist trocken ."
+    },
+    {
+        "gloss": "WIND SCHWACH MAESSIG WEHEN",
+        "text": "schwacher bis mäßiger wind aus nord bis west ."
+    },
+    {
+        "gloss": "HEUTE WETTER MORGEN SAMSTAG EINS ZWANZIG OKTOBER",
+        "text": "und nun die wettervorhersage für morgen samstag den einunddreißigsten oktober ."
+    },
+    {
+        "gloss": "OST NEBEL neg-HABEN SONNE REGION",
+        "text": "in der osthälfte scheint abseits der nebelgebiete häufig die sonne ."
+    },
+    {
+        "gloss": "WEST REGION IM-VERLAUF MORGEN WOLKE ABER BLEIBEN TROCKEN REGEN neg-HABEN",
+        "text": "richtung westen gibt es im tagesverlauf vermehrt wolken es bleibt aber weitgehend trocken ."
+    },
+    {
+        "gloss": "SCHOEN ABEND NOCH IHR",
+        "text": "ich wünsche ihnen noch einen schönen abend ."
+    },
+    {
+        "gloss": "JETZT WETTER VORAUS INFORMIEREN MORGEN DIENSTAG ERSTE FEBRUAR",
+        "text": "und nun die wettervorhersage für morgen dienstag den ersten februar ."
+    },
+    {
+        "gloss": "HEUTE NACHT BESONDERS REGION KOMMEN REGEN REGION REGEN",
+        "text": "in der nacht regnet es vor allem von schleswig holstein bis zur oder sowie im süden ."
+    },
+    {
+        "gloss": "TAG SAUER LAND VIER REGION ZWOELF GRAD",
+        "text": "am tag vier grad im sauerland und zwölf grad im breisgau ."
+    },
+    {
+        "gloss": "HEUTE NACHT TIEF KOMMEN AUCH KUEHL AUFZIEHEN MORGEN WECHSELHAFT WETTER",
+        "text": "das tief bei schottland sorgt zusammen mit kühler luft auch morgen für wechselhaftes wetter ."
+    },
+    {
+        "gloss": "FREITAG SONNE WOLKE WECHSELHAFT SCHAUER KOENNEN IX ABER SONNE LANG",
+        "text": "am freitag mal sonne mal wolken und nur einzelne schauer stellenweise zeigt sich die sonne auch für längere zeit ."
+    },
+    {
+        "gloss": "MORGEN WETTER WIE-AUSSEHEN ERSTE APRIL DONNERSTAG",
+        "text": "und nun die wettervorhersage für morgen donnerstag den ersten april ."
+    },
+    {
+        "gloss": "FLUSS REGION SCHAUER NORDWEST WARM KOMMEN",
+        "text": "an der elbe einzelne schauer im nordwesten aber schon wieder deutlich freundlicher ."
+    }
+]

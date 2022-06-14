@@ -7,14 +7,8 @@ Authors:
     * Sangeet Sagar, 2022
 """
 
-import os
 import json
-import shutil
-import logging
 
-from sqlalchemy import extract
-
-logger = logging.getLogger(__name__)
 data = {
     'TRAIN_GLOSS' : 'data/phoenix2014T.train.gloss',
     'TRAIN_DE'    : 'data/phoenix2014T.train.de',
@@ -41,25 +35,31 @@ def extract_content(path):
         )
     return content
     
-
 def prepare_data(data, save_json_train, save_json_valid, save_json_test):
     train_path = [data['TRAIN_GLOSS'], data['TRAIN_DE']]
     valid_path = [data['DEV_GLOSS'], data['DEV_DE']]
     test_path = [data['TEST_GLOSS'], data['TEST_DE']]
-    
     train = extract_content(train_path)
     valid = extract_content(valid_path)
     test = extract_content(test_path)
     
-    
     with open(save_json_train, 'w') as f:
         json.dump(train, f, indent=4, ensure_ascii=False)
-    
     with open(save_json_valid, 'w') as f:
         json.dump(valid, f, indent=4, ensure_ascii=False)
-    
     with open(save_json_test, 'w') as f:
         json.dump(test, f, indent=4, ensure_ascii=False)
     
+    print("****** Stats for nerds ******")
+    print("Total train sents: ", len(train))
+    print("Total valid sents: ", len(valid))
+    print("Total test sents: ", len(test))
+    print("\nExample of dataset: ")
+    print("Gloss: ", train[0]["gloss"])
+    print("Test: ", train[0]["text"])
+    
 
-prepare_data(data, 'train.json', 'valid.json', 'test.json')
+if __name__ == "__main__":
+    prepare_data(data, 'train.json', 'valid.json', 'test.json')
+    
+    
